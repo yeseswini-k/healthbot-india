@@ -1,0 +1,2632 @@
+{
+  "fever": {
+    "conditions": [
+      "Common Cold",
+      "Flu (Influenza)",
+      "Typhoid",
+      "Dengue",
+      "Malaria",
+      "COVID-19"
+    ],
+    "otc": [
+      "Paracetamol (Crocin, Dolo 650)",
+      "Ibuprofen (Brufen)"
+    ],
+    "advice": "Stay hydrated. Rest well. If fever exceeds 103\u00b0F or lasts more than 3 days, see a doctor.",
+    "severity": "moderate"
+  },
+  "headache": {
+    "conditions": [
+      "Tension Headache",
+      "Migraine",
+      "Dehydration",
+      "Sinusitis",
+      "Hypertension"
+    ],
+    "otc": [
+      "Paracetamol (Crocin)",
+      "Ibuprofen (Brufen)",
+      "Aspirin (Disprin)"
+    ],
+    "advice": "Rest in a dark quiet room. Stay hydrated. Avoid screen time.",
+    "severity": "mild"
+  },
+  "migraine": {
+    "conditions": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension Headache"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Paracetamol (Crocin)",
+      "Sumatriptan (prescription needed)"
+    ],
+    "advice": "Rest in dark quiet room. Avoid triggers like bright lights and loud sounds.",
+    "severity": "moderate"
+  },
+  "dizziness": {
+    "conditions": [
+      "Vertigo",
+      "Low Blood Pressure",
+      "Anaemia",
+      "Dehydration",
+      "Inner Ear Disorder"
+    ],
+    "otc": [
+      "Cinnarizine (Stugeron)",
+      "Betahistine (Vertin)",
+      "ORS for dehydration"
+    ],
+    "advice": "Sit or lie down immediately when dizzy. Avoid sudden movements. Stay hydrated. See doctor if recurrent.",
+    "severity": "moderate"
+  },
+  "dizzy": {
+    "conditions": [
+      "Vertigo",
+      "Low Blood Pressure",
+      "Anaemia",
+      "Dehydration",
+      "Inner Ear Disorder"
+    ],
+    "otc": [
+      "Cinnarizine (Stugeron)",
+      "Betahistine (Vertin)",
+      "ORS"
+    ],
+    "advice": "Sit or lie down immediately. Avoid sudden head movements. Drink water. See doctor if this is recurrent.",
+    "severity": "moderate"
+  },
+  "vertigo": {
+    "conditions": [
+      "BPPV",
+      "Meniere's Disease",
+      "Labyrinthitis",
+      "Inner Ear Infection"
+    ],
+    "otc": [
+      "Cinnarizine (Stugeron)",
+      "Betahistine (Vertin)",
+      "Meclizine"
+    ],
+    "advice": "Sit down immediately. Avoid sudden head movements. Epley maneuver can help BPPV. Consult ENT.",
+    "severity": "moderate"
+  },
+  "lightheaded": {
+    "conditions": [
+      "Low Blood Pressure",
+      "Anaemia",
+      "Dehydration",
+      "Low Blood Sugar"
+    ],
+    "otc": [
+      "ORS (Electral)",
+      "Glucose supplements"
+    ],
+    "advice": "Sit or lie down. Drink water or juice. Eat something if blood sugar is low.",
+    "severity": "moderate"
+  },
+  "spinning": {
+    "conditions": [
+      "Vertigo",
+      "BPPV",
+      "Inner Ear Disorder"
+    ],
+    "otc": [
+      "Cinnarizine (Stugeron)",
+      "Betahistine (Vertin)"
+    ],
+    "advice": "Lie still. Avoid sudden head movements. Consult a doctor if persistent.",
+    "severity": "moderate"
+  },
+  "cough": {
+    "conditions": [
+      "Common Cold",
+      "Bronchitis",
+      "Asthma",
+      "Allergies",
+      "COVID-19"
+    ],
+    "otc": [
+      "Benadryl Cough Syrup",
+      "Honitus",
+      "Cheston Cold",
+      "Ascoril"
+    ],
+    "advice": "Stay hydrated. Honey-ginger home remedy helps. See doctor if cough persists beyond 2 weeks.",
+    "severity": "mild"
+  },
+  "dry cough": {
+    "conditions": [
+      "Allergic Cough",
+      "GERD",
+      "COVID-19",
+      "Asthma"
+    ],
+    "otc": [
+      "Honitus",
+      "Benadryl Dry Cough",
+      "Levocetrizine (Levocet)"
+    ],
+    "advice": "Gargle with warm salt water. Steam inhalation helps.",
+    "severity": "mild"
+  },
+  "wet cough": {
+    "conditions": [
+      "Bronchitis",
+      "Pneumonia",
+      "Common Cold"
+    ],
+    "otc": [
+      "Ascoril Expectorant",
+      "Mucosolvan",
+      "Alex Syrup"
+    ],
+    "advice": "Steam inhalation. Stay hydrated. See doctor if mucus is yellow/green or has blood.",
+    "severity": "moderate"
+  },
+  "cold": {
+    "conditions": [
+      "Common Cold",
+      "Allergic Rhinitis",
+      "Sinusitis"
+    ],
+    "otc": [
+      "Cheston Cold",
+      "Sinarest",
+      "D-Cold Total",
+      "Cetirizine"
+    ],
+    "advice": "Steam inhalation helps. Stay warm and rest. Vitamin C supplements may help.",
+    "severity": "mild"
+  },
+  "runny nose": {
+    "conditions": [
+      "Common Cold",
+      "Allergic Rhinitis",
+      "Sinusitis"
+    ],
+    "otc": [
+      "Cetirizine (Cetzine)",
+      "Cheston Cold",
+      "Sinarest"
+    ],
+    "advice": "Blow nose gently. Saline nasal drops help.",
+    "severity": "mild"
+  },
+  "blocked nose": {
+    "conditions": [
+      "Common Cold",
+      "Sinusitis",
+      "Allergic Rhinitis"
+    ],
+    "otc": [
+      "Otrivin Nasal Spray",
+      "Nasivion",
+      "Sinarest"
+    ],
+    "advice": "Steam inhalation is very effective. Do not use decongestant sprays for more than 3 days.",
+    "severity": "mild"
+  },
+  "sore throat": {
+    "conditions": [
+      "Pharyngitis",
+      "Tonsillitis",
+      "Common Cold",
+      "Strep Throat"
+    ],
+    "otc": [
+      "Strepsils",
+      "Cofsils",
+      "Betadine Gargle"
+    ],
+    "advice": "Gargle with warm salt water every 4 hours. Avoid cold drinks.",
+    "severity": "mild"
+  },
+  "throat pain": {
+    "conditions": [
+      "Pharyngitis",
+      "Tonsillitis",
+      "Strep Throat"
+    ],
+    "otc": [
+      "Strepsils",
+      "Cofsils",
+      "Ibuprofen (Brufen)",
+      "Betadine Gargle"
+    ],
+    "advice": "Warm salt water gargles help. Avoid cold drinks.",
+    "severity": "mild"
+  },
+  "stomach pain": {
+    "conditions": [
+      "Gastritis",
+      "IBS",
+      "Food Poisoning",
+      "Acidity",
+      "Appendicitis (if severe right side)"
+    ],
+    "otc": [
+      "Gelusil MPS",
+      "Pantoprazole (Pan 40)",
+      "Cyclopam",
+      "Buscopan"
+    ],
+    "advice": "Eat light bland meals. If pain is severe or sudden, see a doctor urgently.",
+    "severity": "moderate"
+  },
+  "stomach ache": {
+    "conditions": [
+      "Gastritis",
+      "IBS",
+      "Food Poisoning",
+      "Acidity"
+    ],
+    "otc": [
+      "Gelusil MPS",
+      "Cyclopam",
+      "Pan 40"
+    ],
+    "advice": "Eat light bland food. Avoid spicy/oily food. See doctor if pain is severe.",
+    "severity": "moderate"
+  },
+  "tummy ache": {
+    "conditions": [
+      "Gastritis",
+      "IBS",
+      "Food Poisoning"
+    ],
+    "otc": [
+      "Gelusil MPS",
+      "Cyclopam"
+    ],
+    "advice": "Rest. Light bland diet. See doctor if severe.",
+    "severity": "moderate"
+  },
+  "acidity": {
+    "conditions": [
+      "GERD",
+      "Gastritis",
+      "Peptic Ulcer"
+    ],
+    "otc": [
+      "Gelusil MPS",
+      "Ranitidine (Zinetac)",
+      "Omeprazole (Omez)",
+      "Pan 40"
+    ],
+    "advice": "Smaller meals. Avoid spicy/oily food. Don't lie down immediately after eating.",
+    "severity": "mild"
+  },
+  "heartburn": {
+    "conditions": [
+      "GERD",
+      "Gastritis",
+      "Hiatal Hernia"
+    ],
+    "otc": [
+      "Gelusil MPS",
+      "Omeprazole (Omez)",
+      "Ranitidine (Zinetac)"
+    ],
+    "advice": "Avoid trigger foods. Eat smaller meals. Don't eat 2-3 hours before bedtime.",
+    "severity": "mild"
+  },
+  "diarrhea": {
+    "conditions": [
+      "Food Poisoning",
+      "Gastroenteritis",
+      "IBS"
+    ],
+    "otc": [
+      "ORS (Electral)",
+      "Loperamide (Imodium)",
+      "Norflox-TZ",
+      "Enterogermina"
+    ],
+    "advice": "Stay hydrated with ORS. Eat BRAT diet. See doctor if blood in stool.",
+    "severity": "moderate"
+  },
+  "loose motion": {
+    "conditions": [
+      "Food Poisoning",
+      "Gastroenteritis"
+    ],
+    "otc": [
+      "ORS (Electral)",
+      "Loperamide (Imodium)",
+      "Norflox-TZ"
+    ],
+    "advice": "Drink ORS. Eat light food. See doctor if persists beyond 2 days.",
+    "severity": "moderate"
+  },
+  "loose motions": {
+    "conditions": [
+      "Food Poisoning",
+      "Gastroenteritis",
+      "IBS"
+    ],
+    "otc": [
+      "ORS (Electral)",
+      "Loperamide (Imodium)",
+      "Norflox-TZ"
+    ],
+    "advice": "Stay hydrated with ORS. Eat BRAT diet. See doctor if blood in stool.",
+    "severity": "moderate"
+  },
+  "vomiting": {
+    "conditions": [
+      "Food Poisoning",
+      "Gastroenteritis",
+      "Motion Sickness",
+      "Migraine"
+    ],
+    "otc": [
+      "Ondansetron (Emeset)",
+      "Domperidone (Domstal)",
+      "ORS"
+    ],
+    "advice": "Sip small amounts of water frequently. See doctor if vomiting blood.",
+    "severity": "moderate"
+  },
+  "nausea": {
+    "conditions": [
+      "Gastritis",
+      "Food Poisoning",
+      "Motion Sickness",
+      "Pregnancy",
+      "Migraine"
+    ],
+    "otc": [
+      "Domperidone (Domstal)",
+      "Ondansetron (Emeset)",
+      "Ginger tea"
+    ],
+    "advice": "Eat small bland meals. Avoid strong smells and greasy food.",
+    "severity": "mild"
+  },
+  "motion sickness": {
+    "conditions": [
+      "Motion Sickness",
+      "Vestibular Dysfunction"
+    ],
+    "otc": [
+      "Avomine (Promethazine)",
+      "Cinnarizine (Stugeron)",
+      "Dramamine"
+    ],
+    "advice": "Take 30-60 minutes before travel. Sit in front seat. Focus on horizon.",
+    "severity": "mild"
+  },
+  "back pain": {
+    "conditions": [
+      "Muscle Strain",
+      "Disc Herniation",
+      "Poor Posture",
+      "Sciatica"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)",
+      "Combiflam"
+    ],
+    "advice": "Apply warm compress. Gentle stretching. Avoid heavy lifting.",
+    "severity": "mild"
+  },
+  "lower back pain": {
+    "conditions": [
+      "Muscle Strain",
+      "Disc Prolapse",
+      "Sciatica",
+      "Kidney Infection"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)",
+      "Combiflam"
+    ],
+    "advice": "Rest. Ice initially then warm compress. See doctor if pain radiates down leg.",
+    "severity": "moderate"
+  },
+  "neck pain": {
+    "conditions": [
+      "Cervical Spondylosis",
+      "Muscle Strain",
+      "Poor Posture"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel",
+      "Thiocolchicoside"
+    ],
+    "advice": "Gentle neck exercises. Warm compress. Use a proper pillow.",
+    "severity": "mild"
+  },
+  "shoulder pain": {
+    "conditions": [
+      "Rotator Cuff Injury",
+      "Frozen Shoulder",
+      "Muscle Strain"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)"
+    ],
+    "advice": "Rest the shoulder. Apply ice for acute pain, heat for chronic.",
+    "severity": "mild"
+  },
+  "knee pain": {
+    "conditions": [
+      "Osteoarthritis",
+      "Ligament Injury",
+      "Meniscus Tear",
+      "Gout"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel",
+      "Glucosamine supplements"
+    ],
+    "advice": "Rest. Apply ice. Avoid stairs. Quadriceps exercises help.",
+    "severity": "moderate"
+  },
+  "skin rash": {
+    "conditions": [
+      "Allergic Reaction",
+      "Eczema",
+      "Fungal Infection",
+      "Prickly Heat"
+    ],
+    "otc": [
+      "Calamine Lotion",
+      "Hydrocortisone Cream",
+      "Cetirizine (Cetzine)"
+    ],
+    "advice": "Keep area clean and dry. Avoid scratching. See dermatologist if rash spreads.",
+    "severity": "mild"
+  },
+  "itching": {
+    "conditions": [
+      "Allergic Reaction",
+      "Eczema",
+      "Fungal Infection",
+      "Dry Skin"
+    ],
+    "otc": [
+      "Cetirizine (Cetzine)",
+      "Calamine Lotion",
+      "Hydrocortisone Cream"
+    ],
+    "advice": "Avoid scratching. Keep skin moisturized. Cool baths help.",
+    "severity": "mild"
+  },
+  "fungal infection": {
+    "conditions": [
+      "Tinea (Ringworm)",
+      "Athlete's Foot",
+      "Jock Itch",
+      "Candidiasis"
+    ],
+    "otc": [
+      "Clotrimazole Cream (Candid)",
+      "Terbinafine (Terbicip)",
+      "Miconazole (Daktarin)"
+    ],
+    "advice": "Keep area clean and dry. Apply antifungal cream twice daily. Wear loose cotton clothing.",
+    "severity": "mild"
+  },
+  "eye irritation": {
+    "conditions": [
+      "Conjunctivitis",
+      "Allergic Eye",
+      "Dry Eyes"
+    ],
+    "otc": [
+      "Refresh Tears Eye Drops",
+      "Zaditen Eye Drops",
+      "Tobramycin Eye Drops"
+    ],
+    "advice": "Do not rub eyes. Wash hands frequently.",
+    "severity": "mild"
+  },
+  "red eye": {
+    "conditions": [
+      "Conjunctivitis",
+      "Sub-conjunctival Hemorrhage",
+      "Uveitis"
+    ],
+    "otc": [
+      "Refresh Tears",
+      "Tobramycin Eye Drops"
+    ],
+    "advice": "Do not rub. Seek medical attention if vision is affected.",
+    "severity": "moderate"
+  },
+  "toothache": {
+    "conditions": [
+      "Dental Caries",
+      "Dental Abscess",
+      "Gum Disease"
+    ],
+    "otc": [
+      "Paracetamol (Crocin)",
+      "Ibuprofen (Brufen)",
+      "Clove Oil (topical)"
+    ],
+    "advice": "Rinse with warm salt water. See dentist as soon as possible.",
+    "severity": "moderate"
+  },
+  "ear pain": {
+    "conditions": [
+      "Otitis Media",
+      "Swimmer's Ear",
+      "Earwax Buildup"
+    ],
+    "otc": [
+      "Paracetamol for pain",
+      "Waxolve Ear Drops",
+      "Ciprofloxacin Ear Drops"
+    ],
+    "advice": "Do not insert objects into ear. See a doctor \u2014 ear infections need antibiotics.",
+    "severity": "moderate"
+  },
+  "anxiety": {
+    "conditions": [
+      "Generalized Anxiety Disorder",
+      "Panic Disorder",
+      "Stress"
+    ],
+    "otc": [
+      "Ashwagandha supplements",
+      "Melatonin",
+      "Chamomile tea"
+    ],
+    "advice": "Practice deep breathing. Exercise regularly. Reduce caffeine. Consult a doctor for persistent anxiety.",
+    "severity": "moderate"
+  },
+  "stress": {
+    "conditions": [
+      "Occupational Stress",
+      "Anxiety",
+      "Burnout"
+    ],
+    "otc": [
+      "Ashwagandha",
+      "Brahmi supplements"
+    ],
+    "advice": "Exercise regularly. Mindfulness. Maintain sleep schedule.",
+    "severity": "mild"
+  },
+  "insomnia": {
+    "conditions": [
+      "Insomnia",
+      "Anxiety",
+      "Depression",
+      "Stress"
+    ],
+    "otc": [
+      "Melatonin (0.5-3mg)",
+      "Ashwagandha"
+    ],
+    "advice": "Consistent sleep schedule. Avoid screens before bed. Keep room dark and cool.",
+    "severity": "mild"
+  },
+  "cant sleep": {
+    "conditions": [
+      "Insomnia",
+      "Anxiety",
+      "Stress"
+    ],
+    "otc": [
+      "Melatonin",
+      "Ashwagandha"
+    ],
+    "advice": "Consistent sleep schedule. No screens 1 hour before bed. Dark, cool room.",
+    "severity": "mild"
+  },
+  "joint pain": {
+    "conditions": [
+      "Arthritis",
+      "Gout",
+      "Bursitis",
+      "Rheumatoid Arthritis"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel",
+      "Combiflam"
+    ],
+    "advice": "Rest the joint. Alternate ice and heat.",
+    "severity": "moderate"
+  },
+  "chest pain": {
+    "conditions": [
+      "Acidity/GERD",
+      "Muscle Strain",
+      "Angina",
+      "Heart Attack"
+    ],
+    "otc": [],
+    "advice": "URGENT: If severe, with arm/jaw radiation, sweating \u2014 call 112 immediately.",
+    "severity": "high"
+  },
+  "difficulty breathing": {
+    "conditions": [
+      "Asthma",
+      "COPD",
+      "Anxiety",
+      "Heart Failure"
+    ],
+    "otc": [],
+    "advice": "URGENT: Seek immediate medical attention. Call 112 if severe.",
+    "severity": "high"
+  },
+  "shortness of breath": {
+    "conditions": [
+      "Asthma",
+      "Anaemia",
+      "Heart Disease",
+      "Anxiety"
+    ],
+    "otc": [],
+    "advice": "URGENT: Sudden shortness of breath needs emergency evaluation. Call 112.",
+    "severity": "high"
+  },
+  "urinary infection": {
+    "conditions": [
+      "UTI",
+      "Cystitis",
+      "Kidney Infection"
+    ],
+    "otc": [
+      "Norfloxacin (Norflox)",
+      "Nitrofurantoin",
+      "Cranberry supplements"
+    ],
+    "advice": "Drink 2-3 litres of water. See doctor for antibiotic prescription.",
+    "severity": "moderate"
+  },
+  "burning urination": {
+    "conditions": [
+      "UTI",
+      "STI",
+      "Kidney Stones"
+    ],
+    "otc": [
+      "Norfloxacin (Norflox)",
+      "Cranberry juice"
+    ],
+    "advice": "Drink plenty of water. See a doctor for urine culture and antibiotics.",
+    "severity": "moderate"
+  },
+  "cold and fever": {
+    "conditions": [
+      "Flu",
+      "Common Cold",
+      "COVID-19"
+    ],
+    "otc": [
+      "Paracetamol (Dolo 650)",
+      "Cheston Cold",
+      "Vitamin C"
+    ],
+    "advice": "Rest, stay hydrated. Consult doctor if symptoms worsen.",
+    "severity": "moderate"
+  },
+  "body ache": {
+    "conditions": [
+      "Overexertion / Exercise",
+      "Muscle Fatigue",
+      "Flu (Influenza)",
+      "Dengue",
+      "COVID-19",
+      "Fibromyalgia"
+    ],
+    "otc": [
+      "Paracetamol (Crocin/Dolo 650) \u2014 if pain is significant",
+      "Ibuprofen (Brufen) \u2014 for inflammation-related aches"
+    ],
+    "advice": "Most body aches after exercise or a long day are completely normal \u2014 rest, light stretching, and staying hydrated usually fixes it within 24-48 hours. A warm bath or hot compress helps too. If the ache is accompanied by high fever, rash, or doesn't improve in 3 days, see a doctor.",
+    "severity": "mild"
+  },
+  "fatigue": {
+    "conditions": [
+      "Anaemia",
+      "Hypothyroidism",
+      "Diabetes",
+      "Depression",
+      "Sleep Deprivation",
+      "COVID-19"
+    ],
+    "otc": [
+      "Iron supplements",
+      "Vitamin B12",
+      "Vitamin D",
+      "Multivitamins"
+    ],
+    "advice": "7-8 hours sleep. Stay hydrated. Balanced meals. Blood tests if fatigue persists.",
+    "severity": "moderate"
+  },
+  "tiredness": {
+    "conditions": [
+      "Anaemia",
+      "Hypothyroidism",
+      "Diabetes",
+      "Sleep Deprivation"
+    ],
+    "otc": [
+      "Iron + Folic Acid",
+      "Vitamin B12",
+      "Vitamin D"
+    ],
+    "advice": "Get adequate sleep. Eat iron-rich foods. Blood tests if persistent.",
+    "severity": "moderate"
+  },
+  "weakness": {
+    "conditions": [
+      "Anaemia",
+      "Low Blood Pressure",
+      "Malnutrition",
+      "Diabetes"
+    ],
+    "otc": [
+      "Iron + Folic Acid",
+      "Vitamin B12",
+      "ORS"
+    ],
+    "advice": "Eat iron-rich foods. Stay hydrated. See doctor if sudden or severe.",
+    "severity": "moderate"
+  },
+  "constipation": {
+    "conditions": [
+      "IBS",
+      "Low Fibre Diet",
+      "Dehydration",
+      "Hypothyroidism"
+    ],
+    "otc": [
+      "Isabgol (Psyllium Husk)",
+      "Duphalac (Lactulose)",
+      "Dulcolax (Bisacodyl)",
+      "Cremaffin"
+    ],
+    "advice": "Drink 2-3 litres daily. High-fibre foods. Exercise regularly.",
+    "severity": "mild"
+  },
+  "bloating": {
+    "conditions": [
+      "IBS",
+      "Gastritis",
+      "Lactose Intolerance",
+      "Constipation"
+    ],
+    "otc": [
+      "Simethicone (Colimax, Gas-O-Fast)",
+      "Gelusil MPS",
+      "Enterogermina"
+    ],
+    "advice": "Eat slowly. Avoid carbonated drinks, beans, cabbage. Walk after meals.",
+    "severity": "mild"
+  },
+  "gas": {
+    "conditions": [
+      "IBS",
+      "Gastritis",
+      "Lactose Intolerance"
+    ],
+    "otc": [
+      "Simethicone (Gas-O-Fast)",
+      "Digene",
+      "Probiotics"
+    ],
+    "advice": "Avoid gas-producing foods. Eat slowly. Walk after meals.",
+    "severity": "mild"
+  },
+  "palpitations": {
+    "conditions": [
+      "Anxiety",
+      "Arrhythmia",
+      "Anaemia",
+      "Hyperthyroidism"
+    ],
+    "otc": [
+      "Magnesium supplements"
+    ],
+    "advice": "Reduce caffeine. Manage stress. See doctor if frequent or with dizziness.",
+    "severity": "moderate"
+  },
+  "swelling": {
+    "conditions": [
+      "Oedema",
+      "Heart Failure",
+      "Kidney Disease",
+      "Injury"
+    ],
+    "otc": [
+      "Ibuprofen for injury swelling",
+      "Compression stockings"
+    ],
+    "advice": "Elevate swollen area. Reduce salt. See doctor for persistent or widespread swelling.",
+    "severity": "moderate"
+  },
+  "hair loss": {
+    "conditions": [
+      "Androgenic Alopecia",
+      "Telogen Effluvium",
+      "Hypothyroidism",
+      "Anaemia"
+    ],
+    "otc": [
+      "Minoxidil 2% (Tugain)",
+      "Biotin supplements",
+      "Iron + Folic Acid",
+      "Vitamin D"
+    ],
+    "advice": "Protein-rich diet. Avoid heat styling. Get thyroid and iron tested.",
+    "severity": "mild"
+  },
+  "dandruff": {
+    "conditions": [
+      "Seborrhoeic Dermatitis",
+      "Dry Scalp",
+      "Fungal Infection"
+    ],
+    "otc": [
+      "Ketoconazole Shampoo (Nizoral)",
+      "Zinc Pyrithione Shampoo",
+      "Coal Tar Shampoo"
+    ],
+    "advice": "Use medicated shampoo twice weekly. Leave on 5 minutes before rinsing.",
+    "severity": "mild"
+  },
+  "period pain": {
+    "conditions": [
+      "Primary Dysmenorrhoea",
+      "Endometriosis",
+      "Fibroids",
+      "PCOS"
+    ],
+    "otc": [
+      "Mefenamic Acid (Meftal Spas)",
+      "Ibuprofen (Brufen)",
+      "Cyclopam"
+    ],
+    "advice": "Warm compress on lower abdomen. Start pain relief a day before expected period.",
+    "severity": "moderate"
+  },
+  "menstrual cramps": {
+    "conditions": [
+      "Primary Dysmenorrhoea",
+      "Endometriosis"
+    ],
+    "otc": [
+      "Mefenamic Acid (Meftal Spas)",
+      "Ibuprofen (Brufen)",
+      "Naproxen"
+    ],
+    "advice": "Heat pad. Take NSAID 1-2 days before period. Yoga reduces cramps long-term.",
+    "severity": "moderate"
+  },
+  "mouth ulcer": {
+    "conditions": [
+      "Aphthous Ulcer",
+      "Vitamin B12 Deficiency",
+      "Stress"
+    ],
+    "otc": [
+      "Zytee Gel",
+      "Vitamin B complex (Becosules)",
+      "Kenalog in Orabase"
+    ],
+    "advice": "Avoid spicy/acidic foods. Salt water rinse. See doctor if doesn't heal in 2 weeks.",
+    "severity": "mild"
+  },
+  "acne": {
+    "conditions": [
+      "Acne Vulgaris",
+      "Hormonal Acne",
+      "PCOS-related Acne"
+    ],
+    "otc": [
+      "Benzoyl Peroxide Gel",
+      "Salicylic Acid Face Wash (Acne Star)",
+      "Clindamycin Gel (Clindac A)"
+    ],
+    "advice": "Wash face twice daily. Do not pop pimples. Use oil-free sunscreen.",
+    "severity": "mild"
+  },
+  "sunburn": {
+    "conditions": [
+      "Sunburn",
+      "UV Radiation Damage"
+    ],
+    "otc": [
+      "Calamine Lotion",
+      "Aloe Vera Gel",
+      "Hydrocortisone Cream 1%",
+      "Paracetamol"
+    ],
+    "advice": "Cool water on skin. Aloe vera soothes. Avoid further sun exposure. Use SPF 50+.",
+    "severity": "mild"
+  },
+  "dehydration": {
+    "conditions": [
+      "Dehydration",
+      "Heat Exhaustion"
+    ],
+    "otc": [
+      "ORS (Electral)",
+      "Enerzal",
+      "Coconut water"
+    ],
+    "advice": "Drink ORS. Avoid caffeine. See doctor if no urine output or confusion.",
+    "severity": "moderate"
+  },
+  "dengue": {
+    "conditions": [
+      "Dengue Fever",
+      "Dengue Haemorrhagic Fever"
+    ],
+    "otc": [
+      "Paracetamol (Dolo 650) ONLY \u2014 AVOID Aspirin/Ibuprofen",
+      "ORS"
+    ],
+    "advice": "URGENT: See doctor for platelet count. NEVER use Ibuprofen/Aspirin in dengue. Stay hydrated.",
+    "severity": "high"
+  },
+  "malaria": {
+    "conditions": [
+      "Plasmodium Falciparum Malaria",
+      "Plasmodium Vivax Malaria"
+    ],
+    "otc": [],
+    "advice": "URGENT: Requires blood smear and prescription antimalarials. See doctor immediately.",
+    "severity": "high"
+  },
+  "typhoid": {
+    "conditions": [
+      "Typhoid Fever"
+    ],
+    "otc": [],
+    "advice": "URGENT: Requires blood culture and prescription antibiotics. See doctor. Drink only boiled/purified water.",
+    "severity": "high"
+  },
+  "covid": {
+    "conditions": [
+      "COVID-19"
+    ],
+    "otc": [
+      "Paracetamol (Dolo 650)",
+      "Vitamin C + Zinc",
+      "Vitamin D",
+      "ORS"
+    ],
+    "advice": "Isolate. Monitor SpO2 \u2014 seek emergency if below 94%. Consult doctor for treatment.",
+    "severity": "high"
+  },
+  "asthma": {
+    "conditions": [
+      "Bronchial Asthma",
+      "Exercise-induced Asthma",
+      "Allergic Asthma"
+    ],
+    "otc": [
+      "Salbutamol Inhaler (Asthalin)",
+      "Montelukast (Montair \u2014 prescription)"
+    ],
+    "advice": "Always carry rescue inhaler. Avoid triggers (dust, smoke, pollen). See pulmonologist.",
+    "severity": "high"
+  },
+  "allergies": {
+    "conditions": [
+      "Allergic Rhinitis",
+      "Food Allergy",
+      "Drug Allergy",
+      "Contact Dermatitis"
+    ],
+    "otc": [
+      "Cetirizine (Cetzine)",
+      "Levocetrizine (Levocet)",
+      "Fexofenadine (Allegra)",
+      "Montelukast (Montair)"
+    ],
+    "advice": "Identify and avoid allergens. Keep antihistamines handy.",
+    "severity": "moderate"
+  },
+  "depression": {
+    "conditions": [
+      "Major Depressive Disorder",
+      "Dysthymia",
+      "Bipolar Disorder"
+    ],
+    "otc": [
+      "Omega-3 supplements",
+      "Vitamin D",
+      "St. John's Wort (mild)"
+    ],
+    "advice": "Please seek professional help \u2014 psychiatrist or psychologist. Helpline: iCall 9152987821.",
+    "severity": "high"
+  },
+  "high blood pressure": {
+    "conditions": [
+      "Hypertension",
+      "Renal Hypertension"
+    ],
+    "otc": [],
+    "advice": "Reduce salt. Exercise. Avoid stress. See doctor \u2014 requires prescription medication.",
+    "severity": "high"
+  },
+  "thyroid": {
+    "conditions": [
+      "Hypothyroidism",
+      "Hyperthyroidism",
+      "Hashimoto's"
+    ],
+    "otc": [],
+    "advice": "Requires TSH, T3, T4 blood tests and prescription medication. See endocrinologist.",
+    "severity": "high"
+  },
+  "muscle pain": {
+    "conditions": [
+      "Overexertion / Exercise",
+      "Muscle Fatigue",
+      "Flu (Influenza)",
+      "Dengue",
+      "COVID-19",
+      "Fibromyalgia"
+    ],
+    "otc": [
+      "Paracetamol (Crocin/Dolo 650) \u2014 if pain is significant",
+      "Ibuprofen (Brufen) \u2014 for inflammation-related aches"
+    ],
+    "advice": "Most body aches after exercise or a long day are completely normal \u2014 rest, light stretching, and staying hydrated usually fixes it within 24-48 hours. A warm bath or hot compress helps too. If the ache is accompanied by high fever, rash, or doesn't improve in 3 days, see a doctor.",
+    "severity": "mild"
+  },
+  "muscle ache": {
+    "conditions": [
+      "Overexertion / Exercise",
+      "Muscle Fatigue",
+      "Flu (Influenza)",
+      "Dengue",
+      "COVID-19",
+      "Fibromyalgia"
+    ],
+    "otc": [
+      "Paracetamol (Crocin/Dolo 650) \u2014 if pain is significant",
+      "Ibuprofen (Brufen) \u2014 for inflammation-related aches"
+    ],
+    "advice": "Most body aches after exercise or a long day are completely normal \u2014 rest, light stretching, and staying hydrated usually fixes it within 24-48 hours. A warm bath or hot compress helps too. If the ache is accompanied by high fever, rash, or doesn't improve in 3 days, see a doctor.",
+    "severity": "mild"
+  },
+  "soreness": {
+    "conditions": [
+      "Overexertion / Exercise",
+      "Muscle Fatigue",
+      "Flu (Influenza)",
+      "Dengue",
+      "COVID-19",
+      "Fibromyalgia"
+    ],
+    "otc": [
+      "Paracetamol (Crocin/Dolo 650) \u2014 if pain is significant",
+      "Ibuprofen (Brufen) \u2014 for inflammation-related aches"
+    ],
+    "advice": "Most body aches after exercise or a long day are completely normal \u2014 rest, light stretching, and staying hydrated usually fixes it within 24-48 hours. A warm bath or hot compress helps too. If the ache is accompanied by high fever, rash, or doesn't improve in 3 days, see a doctor.",
+    "severity": "mild"
+  },
+  "head ache": {
+    "conditions": [
+      "Tension Headache",
+      "Migraine",
+      "Dehydration",
+      "Sinusitis",
+      "Hypertension"
+    ],
+    "otc": [
+      "Paracetamol (Crocin)",
+      "Ibuprofen (Brufen)",
+      "Aspirin (Disprin)"
+    ],
+    "advice": "Rest in a dark quiet room. Stay hydrated. Avoid screen time.",
+    "severity": "mild"
+  },
+  "headche": {
+    "conditions": [
+      "Tension Headache",
+      "Migraine",
+      "Dehydration",
+      "Sinusitis",
+      "Hypertension"
+    ],
+    "otc": [
+      "Paracetamol (Crocin)",
+      "Ibuprofen (Brufen)",
+      "Aspirin (Disprin)"
+    ],
+    "advice": "Rest in a dark quiet room. Stay hydrated. Avoid screen time.",
+    "severity": "mild"
+  },
+  "hedache": {
+    "conditions": [
+      "Tension Headache",
+      "Migraine",
+      "Dehydration",
+      "Sinusitis",
+      "Hypertension"
+    ],
+    "otc": [
+      "Paracetamol (Crocin)",
+      "Ibuprofen (Brufen)",
+      "Aspirin (Disprin)"
+    ],
+    "advice": "Rest in a dark quiet room. Stay hydrated. Avoid screen time.",
+    "severity": "mild"
+  },
+  "stomachache": {
+    "conditions": [
+      "Gastritis",
+      "IBS",
+      "Food Poisoning",
+      "Acidity",
+      "Appendicitis (if severe right side)"
+    ],
+    "otc": [
+      "Gelusil MPS",
+      "Pantoprazole (Pan 40)",
+      "Cyclopam",
+      "Buscopan"
+    ],
+    "advice": "Eat light bland meals. If pain is severe or sudden, see a doctor urgently.",
+    "severity": "moderate"
+  },
+  "tummy pain": {
+    "conditions": [
+      "Gastritis",
+      "IBS",
+      "Food Poisoning",
+      "Acidity",
+      "Appendicitis (if severe right side)"
+    ],
+    "otc": [
+      "Gelusil MPS",
+      "Pantoprazole (Pan 40)",
+      "Cyclopam",
+      "Buscopan"
+    ],
+    "advice": "Eat light bland meals. If pain is severe or sudden, see a doctor urgently.",
+    "severity": "moderate"
+  },
+  "back ache": {
+    "conditions": [
+      "Muscle Strain",
+      "Disc Herniation",
+      "Poor Posture",
+      "Sciatica"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)",
+      "Combiflam"
+    ],
+    "advice": "Apply warm compress. Gentle stretching. Avoid heavy lifting.",
+    "severity": "mild"
+  },
+  "backache": {
+    "conditions": [
+      "Muscle Strain",
+      "Disc Herniation",
+      "Poor Posture",
+      "Sciatica"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)",
+      "Combiflam"
+    ],
+    "advice": "Apply warm compress. Gentle stretching. Avoid heavy lifting.",
+    "severity": "mild"
+  },
+  "tooth ache": {
+    "conditions": [
+      "Dental Caries",
+      "Dental Abscess",
+      "Gum Disease"
+    ],
+    "otc": [
+      "Paracetamol (Crocin)",
+      "Ibuprofen (Brufen)",
+      "Clove Oil (topical)"
+    ],
+    "advice": "Rinse with warm salt water. See dentist as soon as possible.",
+    "severity": "moderate"
+  },
+  "toothche": {
+    "conditions": [
+      "Dental Caries",
+      "Dental Abscess",
+      "Gum Disease"
+    ],
+    "otc": [
+      "Paracetamol (Crocin)",
+      "Ibuprofen (Brufen)",
+      "Clove Oil (topical)"
+    ],
+    "advice": "Rinse with warm salt water. See dentist as soon as possible.",
+    "severity": "moderate"
+  },
+  "ear ache": {
+    "conditions": [
+      "Otitis Media",
+      "Swimmer's Ear",
+      "Earwax Buildup"
+    ],
+    "otc": [
+      "Paracetamol for pain",
+      "Waxolve Ear Drops",
+      "Ciprofloxacin Ear Drops"
+    ],
+    "advice": "Do not insert objects into ear. See a doctor \u2014 ear infections need antibiotics.",
+    "severity": "moderate"
+  },
+  "bodyache": {
+    "conditions": [
+      "Overexertion / Exercise",
+      "Muscle Fatigue",
+      "Flu (Influenza)",
+      "Dengue",
+      "COVID-19",
+      "Fibromyalgia"
+    ],
+    "otc": [
+      "Paracetamol (Crocin/Dolo 650) \u2014 if pain is significant",
+      "Ibuprofen (Brufen) \u2014 for inflammation-related aches"
+    ],
+    "advice": "Most body aches after exercise or a long day are completely normal \u2014 rest, light stretching, and staying hydrated usually fixes it within 24-48 hours. A warm bath or hot compress helps too. If the ache is accompanied by high fever, rash, or doesn't improve in 3 days, see a doctor.",
+    "severity": "mild"
+  },
+  "body pain": {
+    "conditions": [
+      "Overexertion / Exercise",
+      "Muscle Fatigue",
+      "Flu (Influenza)",
+      "Dengue",
+      "COVID-19",
+      "Fibromyalgia"
+    ],
+    "otc": [
+      "Paracetamol (Crocin/Dolo 650) \u2014 if pain is significant",
+      "Ibuprofen (Brufen) \u2014 for inflammation-related aches"
+    ],
+    "advice": "Most body aches after exercise or a long day are completely normal \u2014 rest, light stretching, and staying hydrated usually fixes it within 24-48 hours. A warm bath or hot compress helps too. If the ache is accompanied by high fever, rash, or doesn't improve in 3 days, see a doctor.",
+    "severity": "mild"
+  },
+  "fever ": {
+    "conditions": [
+      "Common Cold",
+      "Flu (Influenza)",
+      "Typhoid",
+      "Dengue",
+      "Malaria",
+      "COVID-19"
+    ],
+    "otc": [
+      "Paracetamol (Crocin, Dolo 650)",
+      "Ibuprofen (Brufen)"
+    ],
+    "advice": "Stay hydrated. Rest well. If fever exceeds 103\u00b0F or lasts more than 3 days, see a doctor.",
+    "severity": "moderate"
+  },
+  "cold and cough": {
+    "conditions": [
+      "Common Cold",
+      "Allergic Rhinitis",
+      "Sinusitis"
+    ],
+    "otc": [
+      "Cheston Cold",
+      "Sinarest",
+      "D-Cold Total",
+      "Cetirizine"
+    ],
+    "advice": "Steam inhalation helps. Stay warm and rest. Vitamin C supplements may help.",
+    "severity": "mild"
+  },
+  "running nose": {
+    "conditions": [
+      "Common Cold",
+      "Allergic Rhinitis",
+      "Sinusitis"
+    ],
+    "otc": [
+      "Cetirizine (Cetzine)",
+      "Cheston Cold",
+      "Sinarest"
+    ],
+    "advice": "Blow nose gently. Saline nasal drops help.",
+    "severity": "mild"
+  },
+  "watery eyes": {
+    "conditions": [
+      "Conjunctivitis",
+      "Allergic Eye",
+      "Dry Eyes"
+    ],
+    "otc": [
+      "Refresh Tears Eye Drops",
+      "Zaditen Eye Drops",
+      "Tobramycin Eye Drops"
+    ],
+    "advice": "Do not rub eyes. Wash hands frequently.",
+    "severity": "mild"
+  },
+  "eye water": {
+    "conditions": [
+      "Conjunctivitis",
+      "Allergic Eye",
+      "Dry Eyes"
+    ],
+    "otc": [
+      "Refresh Tears Eye Drops",
+      "Zaditen Eye Drops",
+      "Tobramycin Eye Drops"
+    ],
+    "advice": "Do not rub eyes. Wash hands frequently.",
+    "severity": "mild"
+  },
+  "sore eyes": {
+    "conditions": [
+      "Conjunctivitis",
+      "Allergic Eye",
+      "Dry Eyes"
+    ],
+    "otc": [
+      "Refresh Tears Eye Drops",
+      "Zaditen Eye Drops",
+      "Tobramycin Eye Drops"
+    ],
+    "advice": "Do not rub eyes. Wash hands frequently.",
+    "severity": "mild"
+  },
+  "loose stool": {
+    "conditions": [
+      "Food Poisoning",
+      "Gastroenteritis",
+      "IBS"
+    ],
+    "otc": [
+      "ORS (Electral)",
+      "Loperamide (Imodium)",
+      "Norflox-TZ",
+      "Enterogermina"
+    ],
+    "advice": "Stay hydrated with ORS. Eat BRAT diet. See doctor if blood in stool.",
+    "severity": "moderate"
+  },
+  "loose stools": {
+    "conditions": [
+      "Food Poisoning",
+      "Gastroenteritis",
+      "IBS"
+    ],
+    "otc": [
+      "ORS (Electral)",
+      "Loperamide (Imodium)",
+      "Norflox-TZ",
+      "Enterogermina"
+    ],
+    "advice": "Stay hydrated with ORS. Eat BRAT diet. See doctor if blood in stool.",
+    "severity": "moderate"
+  },
+  "upset stomach": {
+    "conditions": [
+      "Gastritis",
+      "IBS",
+      "Food Poisoning",
+      "Acidity",
+      "Appendicitis (if severe right side)"
+    ],
+    "otc": [
+      "Gelusil MPS",
+      "Pantoprazole (Pan 40)",
+      "Cyclopam",
+      "Buscopan"
+    ],
+    "advice": "Eat light bland meals. If pain is severe or sudden, see a doctor urgently.",
+    "severity": "moderate"
+  },
+  "upset tummy": {
+    "conditions": [
+      "Gastritis",
+      "IBS",
+      "Food Poisoning",
+      "Acidity",
+      "Appendicitis (if severe right side)"
+    ],
+    "otc": [
+      "Gelusil MPS",
+      "Pantoprazole (Pan 40)",
+      "Cyclopam",
+      "Buscopan"
+    ],
+    "advice": "Eat light bland meals. If pain is severe or sudden, see a doctor urgently.",
+    "severity": "moderate"
+  },
+  "nauseus": {
+    "conditions": [
+      "Gastritis",
+      "Food Poisoning",
+      "Motion Sickness",
+      "Pregnancy",
+      "Migraine"
+    ],
+    "otc": [
+      "Domperidone (Domstal)",
+      "Ondansetron (Emeset)",
+      "Ginger tea"
+    ],
+    "advice": "Eat small bland meals. Avoid strong smells and greasy food.",
+    "severity": "mild"
+  },
+  "nauseous": {
+    "conditions": [
+      "Gastritis",
+      "Food Poisoning",
+      "Motion Sickness",
+      "Pregnancy",
+      "Migraine"
+    ],
+    "otc": [
+      "Domperidone (Domstal)",
+      "Ondansetron (Emeset)",
+      "Ginger tea"
+    ],
+    "advice": "Eat small bland meals. Avoid strong smells and greasy food.",
+    "severity": "mild"
+  },
+  "vomit": {
+    "conditions": [
+      "Food Poisoning",
+      "Gastroenteritis",
+      "Motion Sickness",
+      "Migraine"
+    ],
+    "otc": [
+      "Ondansetron (Emeset)",
+      "Domperidone (Domstal)",
+      "ORS"
+    ],
+    "advice": "Sip small amounts of water frequently. See doctor if vomiting blood.",
+    "severity": "moderate"
+  },
+  "throw up": {
+    "conditions": [
+      "Food Poisoning",
+      "Gastroenteritis",
+      "Motion Sickness",
+      "Migraine"
+    ],
+    "otc": [
+      "Ondansetron (Emeset)",
+      "Domperidone (Domstal)",
+      "ORS"
+    ],
+    "advice": "Sip small amounts of water frequently. See doctor if vomiting blood.",
+    "severity": "moderate"
+  },
+  "throwing up": {
+    "conditions": [
+      "Food Poisoning",
+      "Gastroenteritis",
+      "Motion Sickness",
+      "Migraine"
+    ],
+    "otc": [
+      "Ondansetron (Emeset)",
+      "Domperidone (Domstal)",
+      "ORS"
+    ],
+    "advice": "Sip small amounts of water frequently. See doctor if vomiting blood.",
+    "severity": "moderate"
+  },
+  "puking": {
+    "conditions": [
+      "Food Poisoning",
+      "Gastroenteritis",
+      "Motion Sickness",
+      "Migraine"
+    ],
+    "otc": [
+      "Ondansetron (Emeset)",
+      "Domperidone (Domstal)",
+      "ORS"
+    ],
+    "advice": "Sip small amounts of water frequently. See doctor if vomiting blood.",
+    "severity": "moderate"
+  },
+  "puke": {
+    "conditions": [
+      "Food Poisoning",
+      "Gastroenteritis",
+      "Motion Sickness",
+      "Migraine"
+    ],
+    "otc": [
+      "Ondansetron (Emeset)",
+      "Domperidone (Domstal)",
+      "ORS"
+    ],
+    "advice": "Sip small amounts of water frequently. See doctor if vomiting blood.",
+    "severity": "moderate"
+  },
+  "breathless": {
+    "conditions": [
+      "Asthma",
+      "Anaemia",
+      "Heart Disease",
+      "Anxiety"
+    ],
+    "otc": [],
+    "advice": "URGENT: Sudden shortness of breath needs emergency evaluation. Call 112.",
+    "severity": "high"
+  },
+  "breathlessness": {
+    "conditions": [
+      "Asthma",
+      "Anaemia",
+      "Heart Disease",
+      "Anxiety"
+    ],
+    "otc": [],
+    "advice": "URGENT: Sudden shortness of breath needs emergency evaluation. Call 112.",
+    "severity": "high"
+  },
+  "cant breathe": {
+    "conditions": [
+      "Asthma",
+      "COPD",
+      "Anxiety",
+      "Heart Failure"
+    ],
+    "otc": [],
+    "advice": "URGENT: Seek immediate medical attention. Call 112 if severe.",
+    "severity": "high"
+  },
+  "difficulty to breathe": {
+    "conditions": [
+      "Asthma",
+      "COPD",
+      "Anxiety",
+      "Heart Failure"
+    ],
+    "otc": [],
+    "advice": "URGENT: Seek immediate medical attention. Call 112 if severe.",
+    "severity": "high"
+  },
+  "pain in chest": {
+    "conditions": [
+      "Acidity/GERD",
+      "Muscle Strain",
+      "Angina",
+      "Heart Attack"
+    ],
+    "otc": [],
+    "advice": "URGENT: If severe, with arm/jaw radiation, sweating \u2014 call 112 immediately.",
+    "severity": "high"
+  },
+  "chest tightness": {
+    "conditions": [
+      "Acidity/GERD",
+      "Anxiety",
+      "Asthma",
+      "Angina",
+      "Heart Disease"
+    ],
+    "otc": [],
+    "advice": "URGENT: If tightness is severe, with sweating or arm pain \u2014 call 112 immediately. For mild tightness after food, try antacid (Gelusil).",
+    "severity": "high"
+  },
+  "heart pain": {
+    "conditions": [
+      "Acidity/GERD",
+      "Muscle Strain",
+      "Angina",
+      "Heart Attack"
+    ],
+    "otc": [],
+    "advice": "URGENT: If severe, with arm/jaw radiation, sweating \u2014 call 112 immediately.",
+    "severity": "high"
+  },
+  "leg pain": {
+    "conditions": [
+      "Arthritis",
+      "Gout",
+      "Bursitis",
+      "Rheumatoid Arthritis"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel",
+      "Combiflam"
+    ],
+    "advice": "Rest the joint. Alternate ice and heat.",
+    "severity": "moderate"
+  },
+  "knee ache": {
+    "conditions": [
+      "Osteoarthritis",
+      "Ligament Injury",
+      "Meniscus Tear",
+      "Gout"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel",
+      "Glucosamine supplements"
+    ],
+    "advice": "Rest. Apply ice. Avoid stairs. Quadriceps exercises help.",
+    "severity": "moderate"
+  },
+  "shoulder ache": {
+    "conditions": [
+      "Rotator Cuff Injury",
+      "Frozen Shoulder",
+      "Muscle Strain"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)"
+    ],
+    "advice": "Rest the shoulder. Apply ice for acute pain, heat for chronic.",
+    "severity": "mild"
+  },
+  "neck ache": {
+    "conditions": [
+      "Cervical Spondylosis",
+      "Muscle Strain",
+      "Poor Posture"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel",
+      "Thiocolchicoside"
+    ],
+    "advice": "Gentle neck exercises. Warm compress. Use a proper pillow.",
+    "severity": "mild"
+  },
+  "skin problem": {
+    "conditions": [
+      "Allergic Reaction",
+      "Eczema",
+      "Fungal Infection",
+      "Prickly Heat"
+    ],
+    "otc": [
+      "Calamine Lotion",
+      "Hydrocortisone Cream",
+      "Cetirizine (Cetzine)"
+    ],
+    "advice": "Keep area clean and dry. Avoid scratching. See dermatologist if rash spreads.",
+    "severity": "mild"
+  },
+  "itchy rash": {
+    "conditions": [
+      "Allergic Reaction",
+      "Eczema",
+      "Fungal Infection",
+      "Prickly Heat"
+    ],
+    "otc": [
+      "Calamine Lotion",
+      "Hydrocortisone Cream",
+      "Cetirizine (Cetzine)"
+    ],
+    "advice": "Keep area clean and dry. Avoid scratching. See dermatologist if rash spreads.",
+    "severity": "mild"
+  },
+  "redness": {
+    "conditions": [
+      "Allergic Reaction",
+      "Eczema",
+      "Fungal Infection",
+      "Prickly Heat"
+    ],
+    "otc": [
+      "Calamine Lotion",
+      "Hydrocortisone Cream",
+      "Cetirizine (Cetzine)"
+    ],
+    "advice": "Keep area clean and dry. Avoid scratching. See dermatologist if rash spreads.",
+    "severity": "mild"
+  },
+  "hair fall": {
+    "conditions": [
+      "Androgenic Alopecia",
+      "Telogen Effluvium",
+      "Hypothyroidism",
+      "Anaemia"
+    ],
+    "otc": [
+      "Minoxidil 2% (Tugain)",
+      "Biotin supplements",
+      "Iron + Folic Acid",
+      "Vitamin D"
+    ],
+    "advice": "Protein-rich diet. Avoid heat styling. Get thyroid and iron tested.",
+    "severity": "mild"
+  },
+  "falling hair": {
+    "conditions": [
+      "Androgenic Alopecia",
+      "Telogen Effluvium",
+      "Hypothyroidism",
+      "Anaemia"
+    ],
+    "otc": [
+      "Minoxidil 2% (Tugain)",
+      "Biotin supplements",
+      "Iron + Folic Acid",
+      "Vitamin D"
+    ],
+    "advice": "Protein-rich diet. Avoid heat styling. Get thyroid and iron tested.",
+    "severity": "mild"
+  },
+  "dandruf": {
+    "conditions": [
+      "Seborrhoeic Dermatitis",
+      "Dry Scalp",
+      "Fungal Infection"
+    ],
+    "otc": [
+      "Ketoconazole Shampoo (Nizoral)",
+      "Zinc Pyrithione Shampoo",
+      "Coal Tar Shampoo"
+    ],
+    "advice": "Use medicated shampoo twice weekly. Leave on 5 minutes before rinsing.",
+    "severity": "mild"
+  },
+  "periods pain": {
+    "conditions": [
+      "Primary Dysmenorrhoea",
+      "Endometriosis",
+      "Fibroids",
+      "PCOS"
+    ],
+    "otc": [
+      "Mefenamic Acid (Meftal Spas)",
+      "Ibuprofen (Brufen)",
+      "Cyclopam"
+    ],
+    "advice": "Warm compress on lower abdomen. Start pain relief a day before expected period.",
+    "severity": "moderate"
+  },
+  "period cramp": {
+    "conditions": [
+      "Primary Dysmenorrhoea",
+      "Endometriosis"
+    ],
+    "otc": [
+      "Mefenamic Acid (Meftal Spas)",
+      "Ibuprofen (Brufen)",
+      "Naproxen"
+    ],
+    "advice": "Heat pad. Take NSAID 1-2 days before period. Yoga reduces cramps long-term.",
+    "severity": "moderate"
+  },
+  "mensuration pain": {
+    "conditions": [
+      "Primary Dysmenorrhoea",
+      "Endometriosis"
+    ],
+    "otc": [
+      "Mefenamic Acid (Meftal Spas)",
+      "Ibuprofen (Brufen)",
+      "Naproxen"
+    ],
+    "advice": "Heat pad. Take NSAID 1-2 days before period. Yoga reduces cramps long-term.",
+    "severity": "moderate"
+  },
+  "menstruation pain": {
+    "conditions": [
+      "Primary Dysmenorrhoea",
+      "Endometriosis"
+    ],
+    "otc": [
+      "Mefenamic Acid (Meftal Spas)",
+      "Ibuprofen (Brufen)",
+      "Naproxen"
+    ],
+    "advice": "Heat pad. Take NSAID 1-2 days before period. Yoga reduces cramps long-term.",
+    "severity": "moderate"
+  },
+  "menstrual pain": {
+    "conditions": [
+      "Primary Dysmenorrhoea",
+      "Endometriosis"
+    ],
+    "otc": [
+      "Mefenamic Acid (Meftal Spas)",
+      "Ibuprofen (Brufen)",
+      "Naproxen"
+    ],
+    "advice": "Heat pad. Take NSAID 1-2 days before period. Yoga reduces cramps long-term.",
+    "severity": "moderate"
+  },
+  "high bp": {
+    "conditions": [
+      "Hypertension",
+      "Renal Hypertension"
+    ],
+    "otc": [],
+    "advice": "Reduce salt. Exercise. Avoid stress. See doctor \u2014 requires prescription medication.",
+    "severity": "high"
+  },
+  "low bp": {
+    "conditions": [
+      "Vertigo",
+      "Low Blood Pressure",
+      "Anaemia",
+      "Dehydration",
+      "Inner Ear Disorder"
+    ],
+    "otc": [
+      "Cinnarizine (Stugeron)",
+      "Betahistine (Vertin)",
+      "ORS for dehydration"
+    ],
+    "advice": "Sit or lie down immediately when dizzy. Avoid sudden movements. Stay hydrated. See doctor if recurrent.",
+    "severity": "moderate"
+  },
+  "thyroid problem": {
+    "conditions": [
+      "Hypothyroidism",
+      "Hyperthyroidism",
+      "Hashimoto's"
+    ],
+    "otc": [],
+    "advice": "Requires TSH, T3, T4 blood tests and prescription medication. See endocrinologist.",
+    "severity": "high"
+  },
+  "throat ache": {
+    "conditions": [
+      "Pharyngitis",
+      "Tonsillitis",
+      "Common Cold",
+      "Strep Throat"
+    ],
+    "otc": [
+      "Strepsils",
+      "Cofsils",
+      "Betadine Gargle"
+    ],
+    "advice": "Gargle with warm salt water every 4 hours. Avoid cold drinks.",
+    "severity": "mild"
+  },
+  "sore throut": {
+    "conditions": [
+      "Pharyngitis",
+      "Tonsillitis",
+      "Common Cold",
+      "Strep Throat"
+    ],
+    "otc": [
+      "Strepsils",
+      "Cofsils",
+      "Betadine Gargle"
+    ],
+    "advice": "Gargle with warm salt water every 4 hours. Avoid cold drinks.",
+    "severity": "mild"
+  },
+  "soar throat": {
+    "conditions": [
+      "Pharyngitis",
+      "Tonsillitis",
+      "Common Cold",
+      "Strep Throat"
+    ],
+    "otc": [
+      "Strepsils",
+      "Cofsils",
+      "Betadine Gargle"
+    ],
+    "advice": "Gargle with warm salt water every 4 hours. Avoid cold drinks.",
+    "severity": "mild"
+  },
+  "cold flu": {
+    "conditions": [
+      "Flu",
+      "Common Cold",
+      "COVID-19"
+    ],
+    "otc": [
+      "Paracetamol (Dolo 650)",
+      "Cheston Cold",
+      "Vitamin C"
+    ],
+    "advice": "Rest, stay hydrated. Consult doctor if symptoms worsen.",
+    "severity": "moderate"
+  },
+  "flu": {
+    "conditions": [
+      "Flu",
+      "Common Cold",
+      "COVID-19"
+    ],
+    "otc": [
+      "Paracetamol (Dolo 650)",
+      "Cheston Cold",
+      "Vitamin C"
+    ],
+    "advice": "Rest, stay hydrated. Consult doctor if symptoms worsen.",
+    "severity": "moderate"
+  },
+  "influenza": {
+    "conditions": [
+      "Flu",
+      "Common Cold",
+      "COVID-19"
+    ],
+    "otc": [
+      "Paracetamol (Dolo 650)",
+      "Cheston Cold",
+      "Vitamin C"
+    ],
+    "advice": "Rest, stay hydrated. Consult doctor if symptoms worsen.",
+    "severity": "moderate"
+  },
+  "acne problem": {
+    "conditions": [
+      "Acne Vulgaris",
+      "Hormonal Acne",
+      "PCOS-related Acne"
+    ],
+    "otc": [
+      "Benzoyl Peroxide Gel",
+      "Salicylic Acid Face Wash (Acne Star)",
+      "Clindamycin Gel (Clindac A)"
+    ],
+    "advice": "Wash face twice daily. Do not pop pimples. Use oil-free sunscreen.",
+    "severity": "mild"
+  },
+  "pimple problem": {
+    "conditions": [
+      "Acne Vulgaris",
+      "Hormonal Acne",
+      "PCOS-related Acne"
+    ],
+    "otc": [
+      "Benzoyl Peroxide Gel",
+      "Salicylic Acid Face Wash (Acne Star)",
+      "Clindamycin Gel (Clindac A)"
+    ],
+    "advice": "Wash face twice daily. Do not pop pimples. Use oil-free sunscreen.",
+    "severity": "mild"
+  },
+  "zits": {
+    "conditions": [
+      "Acne Vulgaris",
+      "Hormonal Acne",
+      "PCOS-related Acne"
+    ],
+    "otc": [
+      "Benzoyl Peroxide Gel",
+      "Salicylic Acid Face Wash (Acne Star)",
+      "Clindamycin Gel (Clindac A)"
+    ],
+    "advice": "Wash face twice daily. Do not pop pimples. Use oil-free sunscreen.",
+    "severity": "mild"
+  },
+  "constipated": {
+    "conditions": [
+      "IBS",
+      "Low Fibre Diet",
+      "Dehydration",
+      "Hypothyroidism"
+    ],
+    "otc": [
+      "Isabgol (Psyllium Husk)",
+      "Duphalac (Lactulose)",
+      "Dulcolax (Bisacodyl)",
+      "Cremaffin"
+    ],
+    "advice": "Drink 2-3 litres daily. High-fibre foods. Exercise regularly.",
+    "severity": "mild"
+  },
+  "no bowel": {
+    "conditions": [
+      "IBS",
+      "Low Fibre Diet",
+      "Dehydration",
+      "Hypothyroidism"
+    ],
+    "otc": [
+      "Isabgol (Psyllium Husk)",
+      "Duphalac (Lactulose)",
+      "Dulcolax (Bisacodyl)",
+      "Cremaffin"
+    ],
+    "advice": "Drink 2-3 litres daily. High-fibre foods. Exercise regularly.",
+    "severity": "mild"
+  },
+  "cant poop": {
+    "conditions": [
+      "IBS",
+      "Low Fibre Diet",
+      "Dehydration",
+      "Hypothyroidism"
+    ],
+    "otc": [
+      "Isabgol (Psyllium Husk)",
+      "Duphalac (Lactulose)",
+      "Dulcolax (Bisacodyl)",
+      "Cremaffin"
+    ],
+    "advice": "Drink 2-3 litres daily. High-fibre foods. Exercise regularly.",
+    "severity": "mild"
+  },
+  "gas problem": {
+    "conditions": [
+      "IBS",
+      "Gastritis",
+      "Lactose Intolerance"
+    ],
+    "otc": [
+      "Simethicone (Gas-O-Fast)",
+      "Digene",
+      "Probiotics"
+    ],
+    "advice": "Avoid gas-producing foods. Eat slowly. Walk after meals.",
+    "severity": "mild"
+  },
+  "bloated feeling": {
+    "conditions": [
+      "IBS",
+      "Gastritis",
+      "Lactose Intolerance",
+      "Constipation"
+    ],
+    "otc": [
+      "Simethicone (Colimax, Gas-O-Fast)",
+      "Gelusil MPS",
+      "Enterogermina"
+    ],
+    "advice": "Eat slowly. Avoid carbonated drinks, beans, cabbage. Walk after meals.",
+    "severity": "mild"
+  },
+  "feel bloated": {
+    "conditions": [
+      "IBS",
+      "Gastritis",
+      "Lactose Intolerance",
+      "Constipation"
+    ],
+    "otc": [
+      "Simethicone (Colimax, Gas-O-Fast)",
+      "Gelusil MPS",
+      "Enterogermina"
+    ],
+    "advice": "Eat slowly. Avoid carbonated drinks, beans, cabbage. Walk after meals.",
+    "severity": "mild"
+  },
+  "anxiety attack": {
+    "conditions": [
+      "Generalized Anxiety Disorder",
+      "Panic Disorder",
+      "Stress"
+    ],
+    "otc": [
+      "Ashwagandha supplements",
+      "Melatonin",
+      "Chamomile tea"
+    ],
+    "advice": "Practice deep breathing. Exercise regularly. Reduce caffeine. Consult a doctor for persistent anxiety.",
+    "severity": "moderate"
+  },
+  "panic attack": {
+    "conditions": [
+      "Generalized Anxiety Disorder",
+      "Panic Disorder",
+      "Stress"
+    ],
+    "otc": [
+      "Ashwagandha supplements",
+      "Melatonin",
+      "Chamomile tea"
+    ],
+    "advice": "Practice deep breathing. Exercise regularly. Reduce caffeine. Consult a doctor for persistent anxiety.",
+    "severity": "moderate"
+  },
+  "feel anxious": {
+    "conditions": [
+      "Generalized Anxiety Disorder",
+      "Panic Disorder",
+      "Stress"
+    ],
+    "otc": [
+      "Ashwagandha supplements",
+      "Melatonin",
+      "Chamomile tea"
+    ],
+    "advice": "Practice deep breathing. Exercise regularly. Reduce caffeine. Consult a doctor for persistent anxiety.",
+    "severity": "moderate"
+  },
+  "feeling anxious": {
+    "conditions": [
+      "Generalized Anxiety Disorder",
+      "Panic Disorder",
+      "Stress"
+    ],
+    "otc": [
+      "Ashwagandha supplements",
+      "Melatonin",
+      "Chamomile tea"
+    ],
+    "advice": "Practice deep breathing. Exercise regularly. Reduce caffeine. Consult a doctor for persistent anxiety.",
+    "severity": "moderate"
+  },
+  "stress problem": {
+    "conditions": [
+      "Occupational Stress",
+      "Anxiety",
+      "Burnout"
+    ],
+    "otc": [
+      "Ashwagandha",
+      "Brahmi supplements"
+    ],
+    "advice": "Exercise regularly. Mindfulness. Maintain sleep schedule.",
+    "severity": "mild"
+  },
+  "sleepless": {
+    "conditions": [
+      "Insomnia",
+      "Anxiety",
+      "Depression",
+      "Stress"
+    ],
+    "otc": [
+      "Melatonin (0.5-3mg)",
+      "Ashwagandha"
+    ],
+    "advice": "Consistent sleep schedule. Avoid screens before bed. Keep room dark and cool.",
+    "severity": "mild"
+  },
+  "no sleep": {
+    "conditions": [
+      "Insomnia",
+      "Anxiety",
+      "Depression",
+      "Stress"
+    ],
+    "otc": [
+      "Melatonin (0.5-3mg)",
+      "Ashwagandha"
+    ],
+    "advice": "Consistent sleep schedule. Avoid screens before bed. Keep room dark and cool.",
+    "severity": "mild"
+  },
+  "sleep issues": {
+    "conditions": [
+      "Insomnia",
+      "Anxiety",
+      "Depression",
+      "Stress"
+    ],
+    "otc": [
+      "Melatonin (0.5-3mg)",
+      "Ashwagandha"
+    ],
+    "advice": "Consistent sleep schedule. Avoid screens before bed. Keep room dark and cool.",
+    "severity": "mild"
+  },
+  "running fever": {
+    "conditions": [
+      "Common Cold",
+      "Flu (Influenza)",
+      "Typhoid",
+      "Dengue",
+      "Malaria",
+      "COVID-19"
+    ],
+    "otc": [
+      "Paracetamol (Crocin, Dolo 650)",
+      "Ibuprofen (Brufen)"
+    ],
+    "advice": "Stay hydrated. Rest well. If fever exceeds 103\u00b0F or lasts more than 3 days, see a doctor.",
+    "severity": "moderate"
+  },
+  "mild fever": {
+    "conditions": [
+      "Common Cold",
+      "Flu (Influenza)",
+      "Typhoid",
+      "Dengue",
+      "Malaria",
+      "COVID-19"
+    ],
+    "otc": [
+      "Paracetamol (Crocin, Dolo 650)",
+      "Ibuprofen (Brufen)"
+    ],
+    "advice": "Stay hydrated. Rest well. If fever exceeds 103\u00b0F or lasts more than 3 days, see a doctor.",
+    "severity": "moderate"
+  },
+  "high fever": {
+    "conditions": [
+      "Common Cold",
+      "Flu (Influenza)",
+      "Typhoid",
+      "Dengue",
+      "Malaria",
+      "COVID-19"
+    ],
+    "otc": [
+      "Paracetamol (Crocin, Dolo 650)",
+      "Ibuprofen (Brufen)"
+    ],
+    "advice": "Stay hydrated. Rest well. If fever exceeds 103\u00b0F or lasts more than 3 days, see a doctor.",
+    "severity": "moderate"
+  },
+  "low fever": {
+    "conditions": [
+      "Common Cold",
+      "Flu (Influenza)",
+      "Typhoid",
+      "Dengue",
+      "Malaria",
+      "COVID-19"
+    ],
+    "otc": [
+      "Paracetamol (Crocin, Dolo 650)",
+      "Ibuprofen (Brufen)"
+    ],
+    "advice": "Stay hydrated. Rest well. If fever exceeds 103\u00b0F or lasts more than 3 days, see a doctor.",
+    "severity": "moderate"
+  },
+  "slight fever": {
+    "conditions": [
+      "Common Cold",
+      "Flu (Influenza)",
+      "Typhoid",
+      "Dengue",
+      "Malaria",
+      "COVID-19"
+    ],
+    "otc": [
+      "Paracetamol (Crocin, Dolo 650)",
+      "Ibuprofen (Brufen)"
+    ],
+    "advice": "Stay hydrated. Rest well. If fever exceeds 103\u00b0F or lasts more than 3 days, see a doctor.",
+    "severity": "moderate"
+  },
+  "body heat": {
+    "conditions": [
+      "Common Cold",
+      "Flu (Influenza)",
+      "Typhoid",
+      "Dengue",
+      "Malaria",
+      "COVID-19"
+    ],
+    "otc": [
+      "Paracetamol (Crocin, Dolo 650)",
+      "Ibuprofen (Brufen)"
+    ],
+    "advice": "Stay hydrated. Rest well. If fever exceeds 103\u00b0F or lasts more than 3 days, see a doctor.",
+    "severity": "moderate"
+  },
+  "temperature": {
+    "conditions": [
+      "Common Cold",
+      "Flu (Influenza)",
+      "Typhoid",
+      "Dengue",
+      "Malaria",
+      "COVID-19"
+    ],
+    "otc": [
+      "Paracetamol (Crocin, Dolo 650)",
+      "Ibuprofen (Brufen)"
+    ],
+    "advice": "Stay hydrated. Rest well. If fever exceeds 103\u00b0F or lasts more than 3 days, see a doctor.",
+    "severity": "moderate"
+  },
+  "muscle cramp": {
+    "conditions": [
+      "Muscle Fatigue",
+      "Dehydration",
+      "Electrolyte Imbalance",
+      "Overexertion",
+      "Poor Circulation"
+    ],
+    "otc": [
+      "Magnesium supplements",
+      "ORS (Electral)",
+      "Ibuprofen (Brufen) for pain",
+      "Moov/Volini topical"
+    ],
+    "advice": "Stretch the muscle gently and hold. Apply heat for relief. Drink water with a pinch of salt. Muscle cramps are usually harmless \u2014 caused by dehydration, low magnesium, or overuse. See doctor if cramps are frequent, severe, or in the chest.",
+    "severity": "mild"
+  },
+  "muscle cramps": {
+    "conditions": [
+      "Muscle Fatigue",
+      "Dehydration",
+      "Electrolyte Imbalance",
+      "Overexertion",
+      "Poor Circulation"
+    ],
+    "otc": [
+      "Magnesium supplements",
+      "ORS (Electral)",
+      "Ibuprofen (Brufen) for pain",
+      "Moov/Volini topical"
+    ],
+    "advice": "Stretch the muscle gently and hold. Apply heat for relief. Drink water with a pinch of salt. Muscle cramps are usually harmless \u2014 caused by dehydration, low magnesium, or overuse. See doctor if cramps are frequent, severe, or in the chest.",
+    "severity": "mild"
+  },
+  "cramp": {
+    "conditions": [
+      "Muscle Fatigue",
+      "Dehydration",
+      "Electrolyte Imbalance",
+      "Overexertion",
+      "Poor Circulation"
+    ],
+    "otc": [
+      "Magnesium supplements",
+      "ORS (Electral)",
+      "Ibuprofen (Brufen) for pain",
+      "Moov/Volini topical"
+    ],
+    "advice": "Stretch the muscle gently and hold. Apply heat for relief. Drink water with a pinch of salt. Muscle cramps are usually harmless \u2014 caused by dehydration, low magnesium, or overuse. See doctor if cramps are frequent, severe, or in the chest.",
+    "severity": "mild"
+  },
+  "cramps": {
+    "conditions": [
+      "Muscle Fatigue",
+      "Dehydration",
+      "Electrolyte Imbalance",
+      "Overexertion",
+      "Poor Circulation"
+    ],
+    "otc": [
+      "Magnesium supplements",
+      "ORS (Electral)",
+      "Ibuprofen (Brufen) for pain",
+      "Moov/Volini topical"
+    ],
+    "advice": "Stretch the muscle gently and hold. Apply heat for relief. Drink water with a pinch of salt. Muscle cramps are usually harmless \u2014 caused by dehydration, low magnesium, or overuse. See doctor if cramps are frequent, severe, or in the chest.",
+    "severity": "mild"
+  },
+  "leg cramp": {
+    "conditions": [
+      "Muscle Fatigue",
+      "Dehydration",
+      "Electrolyte Imbalance",
+      "Overexertion",
+      "Poor Circulation"
+    ],
+    "otc": [
+      "Magnesium supplements",
+      "ORS (Electral)",
+      "Ibuprofen (Brufen) for pain",
+      "Moov/Volini topical"
+    ],
+    "advice": "Stretch the muscle gently and hold. Apply heat for relief. Drink water with a pinch of salt. Muscle cramps are usually harmless \u2014 caused by dehydration, low magnesium, or overuse. See doctor if cramps are frequent, severe, or in the chest.",
+    "severity": "mild"
+  },
+  "calf cramp": {
+    "conditions": [
+      "Muscle Fatigue",
+      "Dehydration",
+      "Electrolyte Imbalance",
+      "Overexertion",
+      "Poor Circulation"
+    ],
+    "otc": [
+      "Magnesium supplements",
+      "ORS (Electral)",
+      "Ibuprofen (Brufen) for pain",
+      "Moov/Volini topical"
+    ],
+    "advice": "Stretch the muscle gently and hold. Apply heat for relief. Drink water with a pinch of salt. Muscle cramps are usually harmless \u2014 caused by dehydration, low magnesium, or overuse. See doctor if cramps are frequent, severe, or in the chest.",
+    "severity": "mild"
+  },
+  "ligament tear": {
+    "conditions": [
+      "Ligament Sprain/Tear",
+      "Sports Injury",
+      "ACL Tear",
+      "Ankle Sprain"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)",
+      "Combiflam"
+    ],
+    "advice": "Apply RICE: Rest, Ice (20 min every hour), Compression (bandage), Elevation. Do NOT apply heat in first 48 hours. See an orthopaedic doctor urgently \u2014 ligament tears often need imaging (MRI) and may require physiotherapy or surgery.",
+    "severity": "high"
+  },
+  "torn ligament": {
+    "conditions": [
+      "Ligament Sprain/Tear",
+      "Sports Injury",
+      "ACL Tear",
+      "Ankle Sprain"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)",
+      "Combiflam"
+    ],
+    "advice": "Apply RICE: Rest, Ice (20 min every hour), Compression (bandage), Elevation. Do NOT apply heat in first 48 hours. See an orthopaedic doctor urgently \u2014 ligament tears often need imaging (MRI) and may require physiotherapy or surgery.",
+    "severity": "high"
+  },
+  "ligament sprain": {
+    "conditions": [
+      "Ligament Sprain/Tear",
+      "Sports Injury",
+      "ACL Tear",
+      "Ankle Sprain"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)",
+      "Combiflam"
+    ],
+    "advice": "Apply RICE: Rest, Ice (20 min every hour), Compression (bandage), Elevation. Do NOT apply heat in first 48 hours. See an orthopaedic doctor urgently \u2014 ligament tears often need imaging (MRI) and may require physiotherapy or surgery.",
+    "severity": "high"
+  },
+  "acl tear": {
+    "conditions": [
+      "Ligament Sprain/Tear",
+      "Sports Injury",
+      "ACL Tear",
+      "Ankle Sprain"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)",
+      "Combiflam"
+    ],
+    "advice": "Apply RICE: Rest, Ice (20 min every hour), Compression (bandage), Elevation. Do NOT apply heat in first 48 hours. See an orthopaedic doctor urgently \u2014 ligament tears often need imaging (MRI) and may require physiotherapy or surgery.",
+    "severity": "high"
+  },
+  "sprain": {
+    "conditions": [
+      "Ankle Sprain",
+      "Wrist Sprain",
+      "Ligament Injury"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)",
+      "Volini Spray"
+    ],
+    "advice": "RICE method: Rest, Ice, Compression, Elevation. Avoid putting weight on it. See doctor if severe swelling or can't bear weight.",
+    "severity": "moderate"
+  },
+  "strain": {
+    "conditions": [
+      "Muscle Strain",
+      "Overexertion",
+      "Sports Injury"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)",
+      "Combiflam"
+    ],
+    "advice": "Rest the muscle. Apply ice for first 48 hours, then heat. Gentle stretching after 2-3 days. See doctor if severe.",
+    "severity": "mild"
+  },
+  "eye pain": {
+    "conditions": [
+      "Conjunctivitis",
+      "Corneal Abrasion",
+      "Eye Strain (digital)",
+      "Uveitis",
+      "Glaucoma",
+      "Dry Eye Syndrome"
+    ],
+    "otc": [
+      "Refresh Tears Eye Drops",
+      "Lubricating Eye Drops",
+      "Zaditen Eye Drops (allergic)"
+    ],
+    "advice": "Do NOT rub your eyes. Remove contact lenses if wearing any. Rinse with clean water if something is in the eye. See an eye doctor (ophthalmologist) if pain is severe, vision is affected, or there is discharge. Avoid screens for a while.",
+    "severity": "moderate"
+  },
+  "hand pain": {
+    "conditions": [
+      "Carpal Tunnel Syndrome",
+      "Tendinitis",
+      "Arthritis",
+      "Fracture",
+      "Ganglion Cyst",
+      "Overuse Injury"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)",
+      "Combiflam"
+    ],
+    "advice": "Rest the hand. Apply ice if swollen. Avoid repetitive movements. Wear a wrist brace if needed. See doctor if pain is severe, there is numbness, or fingers are tingling (could be carpal tunnel).",
+    "severity": "moderate"
+  },
+  "wrist pain": {
+    "conditions": [
+      "Carpal Tunnel Syndrome",
+      "Tendinitis",
+      "Wrist Sprain",
+      "Arthritis",
+      "Fracture"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)"
+    ],
+    "advice": "Rest the wrist. Ice for swelling. Wrist brace helps. See doctor if pain is severe or persistent \u2014 could need X-ray.",
+    "severity": "moderate"
+  },
+  "finger pain": {
+    "conditions": [
+      "Trigger Finger",
+      "Arthritis",
+      "Fracture",
+      "Tendinitis",
+      "Dislocation"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)"
+    ],
+    "advice": "Rest the finger. Ice if swollen. See doctor if finger is bent abnormally, very swollen, or you cannot straighten it.",
+    "severity": "moderate"
+  },
+  "foot pain": {
+    "conditions": [
+      "Plantar Fasciitis",
+      "Flat Feet",
+      "Arthritis",
+      "Stress Fracture",
+      "Gout"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)",
+      "Combiflam"
+    ],
+    "advice": "Rest feet. Use cushioned footwear. Stretch calf muscles. Ice for swelling. See doctor if pain is severe or you cannot walk.",
+    "severity": "moderate"
+  },
+  "heel pain": {
+    "conditions": [
+      "Plantar Fasciitis",
+      "Heel Spur",
+      "Achilles Tendinitis"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)"
+    ],
+    "advice": "Stretch before walking. Use heel cushion insoles. Avoid walking barefoot on hard floors. See doctor if persistent.",
+    "severity": "mild"
+  },
+  "hip pain": {
+    "conditions": [
+      "Osteoarthritis",
+      "Bursitis",
+      "Hip Fracture",
+      "Muscle Strain",
+      "Sciatica"
+    ],
+    "otc": [
+      "Ibuprofen (Brufen)",
+      "Diclofenac Gel (Voveran)",
+      "Combiflam"
+    ],
+    "advice": "Rest. Avoid activities that worsen pain. See doctor \u2014 hip pain especially in elderly needs urgent evaluation (could be fracture).",
+    "severity": "moderate"
+  }
+}

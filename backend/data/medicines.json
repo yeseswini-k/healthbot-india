@@ -1,0 +1,2303 @@
+{
+  "paracetamol": {
+    "brand_names": [
+      "Crocin",
+      "Dolo 650",
+      "Calpol",
+      "Tylenol",
+      "Pyrigesic",
+      "Metacin",
+      "Panadol"
+    ],
+    "generic": "Paracetamol (Acetaminophen)",
+    "category": "Analgesic / Antipyretic",
+    "uses": "Fever, headache, mild to moderate pain, body ache",
+    "general_guidance": "Take with water. Standard adult dose 500-650mg every 4-6 hours. Do not combine with other paracetamol products. Avoid alcohol.",
+    "contraindications": "Liver disease, alcoholism, severe kidney disease",
+    "available_forms": [
+      "Tablet",
+      "Syrup",
+      "Suppository",
+      "IV Infusion"
+    ]
+  },
+  "ibuprofen": {
+    "brand_names": [
+      "Brufen",
+      "Combiflam",
+      "Advil",
+      "Nurofen",
+      "Ibugesic",
+      "Medofen"
+    ],
+    "generic": "Ibuprofen",
+    "category": "NSAID / Anti-inflammatory",
+    "uses": "Pain, inflammation, fever, menstrual cramps, arthritis, sports injuries",
+    "general_guidance": "Always take with food or milk. Avoid on empty stomach. Do not take for more than 5 days without doctor advice.",
+    "contraindications": "Stomach ulcers, kidney disease, pregnancy (3rd trimester), heart disease, aspirin allergy",
+    "available_forms": [
+      "Tablet",
+      "Syrup",
+      "Gel",
+      "Injection"
+    ]
+  },
+  "cetirizine": {
+    "brand_names": [
+      "Cetzine",
+      "Alerid",
+      "Okacet",
+      "Zyrtec",
+      "Histazine",
+      "Zyncet"
+    ],
+    "generic": "Cetirizine",
+    "category": "Antihistamine (2nd generation)",
+    "uses": "Allergic rhinitis, urticaria, hay fever, skin allergies, watery eyes",
+    "general_guidance": "Take at bedtime as it may cause mild drowsiness. Less sedating than older antihistamines.",
+    "contraindications": "Severe kidney disease",
+    "available_forms": [
+      "Tablet",
+      "Syrup",
+      "Drops"
+    ]
+  },
+  "levocetrizine": {
+    "brand_names": [
+      "Levocet",
+      "Xyzal",
+      "Lezyncet",
+      "L-Cet",
+      "Lecope"
+    ],
+    "generic": "Levocetirizine",
+    "category": "Antihistamine (3rd generation)",
+    "uses": "Allergic rhinitis, urticaria, perennial allergies \u2014 stronger and less sedating than Cetirizine",
+    "general_guidance": "Take in the evening. Most effective long-acting antihistamine.",
+    "contraindications": "Kidney disease (dose adjustment)",
+    "available_forms": [
+      "Tablet",
+      "Syrup"
+    ]
+  },
+  "fexofenadine": {
+    "brand_names": [
+      "Allegra",
+      "Fexo",
+      "Telfast",
+      "Fexova"
+    ],
+    "generic": "Fexofenadine",
+    "category": "Antihistamine (non-sedating)",
+    "uses": "Allergic rhinitis, seasonal allergies, hives \u2014 non-drowsy option",
+    "general_guidance": "Does NOT cause drowsiness. Ideal for daytime use. Do not take with grapefruit juice.",
+    "contraindications": "Severe kidney disease",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "omeprazole": {
+    "brand_names": [
+      "Omez",
+      "Prilosec",
+      "Losec",
+      "Ocid",
+      "Omesec",
+      "Lomac"
+    ],
+    "generic": "Omeprazole",
+    "category": "Proton Pump Inhibitor (PPI)",
+    "uses": "Acidity, GERD, stomach ulcers, heartburn, H. pylori (with antibiotics)",
+    "general_guidance": "Take 30 minutes before breakfast. Do not crush or chew capsules. Use for minimum effective duration.",
+    "contraindications": "Liver disease (use cautiously), osteoporosis risk with long-term use",
+    "available_forms": [
+      "Capsule",
+      "Tablet",
+      "IV"
+    ]
+  },
+  "pantoprazole": {
+    "brand_names": [
+      "Pan 40",
+      "Pantocid",
+      "Pantop",
+      "Protonix",
+      "Nexpro",
+      "Acipan"
+    ],
+    "generic": "Pantoprazole",
+    "category": "Proton Pump Inhibitor (PPI)",
+    "uses": "Acidity, GERD, gastritis, peptic ulcers, Zollinger-Ellison syndrome",
+    "general_guidance": "Take before meals. Swallow whole \u2014 do not crush. Often preferred over Omeprazole for fewer drug interactions.",
+    "contraindications": "Liver impairment",
+    "available_forms": [
+      "Tablet",
+      "Injection"
+    ]
+  },
+  "rabeprazole": {
+    "brand_names": [
+      "Razo",
+      "Rablet",
+      "Aciphex",
+      "Rabeloc"
+    ],
+    "generic": "Rabeprazole",
+    "category": "Proton Pump Inhibitor (PPI)",
+    "uses": "GERD, acidity, ulcers",
+    "general_guidance": "Take before meals. Works faster than Omeprazole.",
+    "contraindications": "Liver disease",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "azithromycin": {
+    "brand_names": [
+      "Azithral",
+      "Zithromax",
+      "Azee",
+      "Azicip",
+      "Trulimax",
+      "Z-pack"
+    ],
+    "generic": "Azithromycin",
+    "category": "Antibiotic (Macrolide)",
+    "uses": "Respiratory infections, skin infections, ear infections, typhoid, STIs",
+    "general_guidance": "Complete the full course. Can take with or without food. Single-dose regimens available for some conditions.",
+    "contraindications": "Liver disease, heart rhythm problems (QT prolongation), myasthenia gravis",
+    "available_forms": [
+      "Tablet",
+      "Syrup",
+      "Injection"
+    ]
+  },
+  "amoxicillin": {
+    "brand_names": [
+      "Mox",
+      "Amoxil",
+      "Novamox",
+      "Trimox",
+      "Cipmox",
+      "Amox"
+    ],
+    "generic": "Amoxicillin",
+    "category": "Antibiotic (Penicillin)",
+    "uses": "Throat infections, ear infections, UTI, skin infections, dental infections, H. pylori",
+    "general_guidance": "Complete full antibiotic course. Take with food to reduce stomach upset.",
+    "contraindications": "Penicillin allergy (check family history), mononucleosis",
+    "available_forms": [
+      "Tablet",
+      "Capsule",
+      "Syrup",
+      "Injection"
+    ]
+  },
+  "amoxicillin_clavulanate": {
+    "brand_names": [
+      "Augmentin",
+      "Clavam",
+      "Enhancin",
+      "Moxclav"
+    ],
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "category": "Antibiotic (Penicillin + Beta-lactamase inhibitor)",
+    "uses": "Sinusitis, tonsillitis, chest infections, UTI, skin infections, dental abscesses \u2014 stronger than plain amoxicillin",
+    "general_guidance": "Take with meals. Complete the full course. More effective against resistant bacteria.",
+    "contraindications": "Penicillin allergy, liver problems (from clavulanate)",
+    "available_forms": [
+      "Tablet",
+      "Suspension",
+      "Injection"
+    ]
+  },
+  "ciprofloxacin": {
+    "brand_names": [
+      "Ciplox",
+      "Cifran",
+      "Ciprolet",
+      "Ciprobid"
+    ],
+    "generic": "Ciprofloxacin",
+    "category": "Antibiotic (Fluoroquinolone)",
+    "uses": "UTI, typhoid, traveller's diarrhea, respiratory infections, skin infections, bone infections",
+    "general_guidance": "Take on empty stomach or with food. Drink plenty of water. Avoid dairy products and antacids 2 hours before/after.",
+    "contraindications": "Children under 18 (except specific cases), pregnancy, tendon problems",
+    "available_forms": [
+      "Tablet",
+      "Injection",
+      "Eye/Ear Drops"
+    ]
+  },
+  "metronidazole": {
+    "brand_names": [
+      "Flagyl",
+      "Metrogyl",
+      "Metron",
+      "Aristogyl"
+    ],
+    "generic": "Metronidazole",
+    "category": "Antibiotic / Antiprotozoal",
+    "uses": "Amoebic dysentery, giardiasis, bacterial vaginosis, dental infections, H. pylori, anaerobic infections",
+    "general_guidance": "AVOID alcohol completely during treatment and 48 hours after. Take with food.",
+    "contraindications": "Alcohol consumption, first trimester pregnancy, blood disorders",
+    "available_forms": [
+      "Tablet",
+      "Suspension",
+      "Gel",
+      "Injection",
+      "Vaginal gel"
+    ]
+  },
+  "doxycycline": {
+    "brand_names": [
+      "Doxt-SL",
+      "Doxy-1",
+      "Tetradox",
+      "Vibramycin"
+    ],
+    "generic": "Doxycycline",
+    "category": "Antibiotic (Tetracycline)",
+    "uses": "Acne, malaria prophylaxis, respiratory infections, STIs, Lyme disease, typhus",
+    "general_guidance": "Take with full glass of water. Sit upright for 30 minutes after. Avoid lying down. Take with food to reduce nausea. Avoid sun exposure.",
+    "contraindications": "Children under 8, pregnancy, breastfeeding, severe liver disease",
+    "available_forms": [
+      "Capsule",
+      "Tablet",
+      "Syrup"
+    ]
+  },
+  "metformin": {
+    "brand_names": [
+      "Glycomet",
+      "Glucophage",
+      "Obimet",
+      "Cetapin",
+      "Gluconorm"
+    ],
+    "generic": "Metformin",
+    "category": "Antidiabetic (Biguanide)",
+    "uses": "Type 2 Diabetes, PCOS (off-label), pre-diabetes",
+    "general_guidance": "Take with meals. Start with low dose and increase gradually. Monitor blood sugar regularly. Do not skip doses.",
+    "contraindications": "Kidney disease (eGFR <30), liver disease, heart failure, alcohol abuse",
+    "available_forms": [
+      "Tablet",
+      "Extended Release Tablet"
+    ]
+  },
+  "glimepiride": {
+    "brand_names": [
+      "Amaryl",
+      "Glimer",
+      "Glimpid",
+      "Glimy"
+    ],
+    "generic": "Glimepiride",
+    "category": "Antidiabetic (Sulfonylurea)",
+    "uses": "Type 2 Diabetes \u2014 stimulates insulin secretion",
+    "general_guidance": "Take with breakfast. Monitor blood sugar \u2014 risk of hypoglycemia. Carry glucose sweets.",
+    "contraindications": "Type 1 diabetes, kidney/liver impairment, pregnancy",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "atorvastatin": {
+    "brand_names": [
+      "Atorva",
+      "Lipitor",
+      "Storvas",
+      "Tonact",
+      "Atorlip"
+    ],
+    "generic": "Atorvastatin",
+    "category": "Statin (Cholesterol-lowering)",
+    "uses": "High cholesterol (hyperlipidemia), prevention of heart attack and stroke",
+    "general_guidance": "Can be taken at any time of day. Report unexplained muscle pain or weakness immediately.",
+    "contraindications": "Liver disease, pregnancy, breastfeeding, unexplained muscle pain",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "rosuvastatin": {
+    "brand_names": [
+      "Crestor",
+      "Rozavel",
+      "Rosutor",
+      "Rosulip"
+    ],
+    "generic": "Rosuvastatin",
+    "category": "Statin (Cholesterol-lowering)",
+    "uses": "High cholesterol \u2014 more potent than atorvastatin at equivalent doses",
+    "general_guidance": "Take at any time. Report muscle pain. Avoid excessive alcohol.",
+    "contraindications": "Liver disease, pregnancy, kidney disease (high doses)",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "diclofenac": {
+    "brand_names": [
+      "Voveran",
+      "Voltaren",
+      "Diclogesic",
+      "Dynapar",
+      "Diclomol"
+    ],
+    "generic": "Diclofenac Sodium",
+    "category": "NSAID / Anti-inflammatory",
+    "uses": "Pain, arthritis, muscle pain, menstrual pain, post-surgical pain, inflammation",
+    "general_guidance": "Take with food. Available as oral, topical gel, and injection. Gel form has fewer systemic side effects.",
+    "contraindications": "Stomach ulcers, kidney disease, heart disease, last trimester pregnancy",
+    "available_forms": [
+      "Tablet",
+      "Gel",
+      "Injection",
+      "Suppository",
+      "Eye Drops"
+    ]
+  },
+  "naproxen": {
+    "brand_names": [
+      "Naprosyn",
+      "Flanax",
+      "Aleve",
+      "Naprelan"
+    ],
+    "generic": "Naproxen",
+    "category": "NSAID / Anti-inflammatory",
+    "uses": "Arthritis, menstrual cramps, tendinitis, gout, back pain \u2014 longer-acting than ibuprofen",
+    "general_guidance": "Take with food. Twice daily dosing due to longer half-life.",
+    "contraindications": "Stomach ulcers, kidney disease, heart disease",
+    "available_forms": [
+      "Tablet",
+      "Suspension"
+    ]
+  },
+  "ondansetron": {
+    "brand_names": [
+      "Emeset",
+      "Zofran",
+      "Ondem",
+      "Vomiset",
+      "Perinorm"
+    ],
+    "generic": "Ondansetron",
+    "category": "Antiemetic (5-HT3 antagonist)",
+    "uses": "Nausea and vomiting from chemotherapy, surgery, gastroenteritis, pregnancy",
+    "general_guidance": "Can be taken with or without food. ODT (orally dissolving tablet) form available. Very effective for vomiting.",
+    "contraindications": "Heart rhythm problems (QT prolongation)",
+    "available_forms": [
+      "Tablet",
+      "ODT",
+      "Syrup",
+      "Injection"
+    ]
+  },
+  "domperidone": {
+    "brand_names": [
+      "Domstal",
+      "Motilium",
+      "Vomistop",
+      "Domperi",
+      "Domstal-M",
+      "Vomilast",
+      "Vomiford",
+      "Vomikind"
+    ],
+    "generic": "Domperidone",
+    "category": "Prokinetic / Antiemetic",
+    "uses": "Nausea, vomiting, bloating, slow gastric emptying, GERD with regurgitation",
+    "general_guidance": "Take 15-30 minutes before meals. Do not use for more than 7 days without medical advice.",
+    "contraindications": "Heart disease (QT prolongation risk), prolactinoma, bleeding bowel conditions",
+    "available_forms": [
+      "Tablet",
+      "Syrup",
+      "Suppository"
+    ]
+  },
+  "loperamide": {
+    "brand_names": [
+      "Imodium",
+      "Lopamide",
+      "Eldoper",
+      "Diasafe",
+      "Lopemid"
+    ],
+    "generic": "Loperamide",
+    "category": "Antidiarrheal (opioid receptor agonist)",
+    "uses": "Acute and chronic diarrhea, traveller's diarrhea, IBS-D",
+    "general_guidance": "Take after each loose stool. Do not exceed 8mg/day. Do not use if blood in stool or high fever.",
+    "contraindications": "Bacterial diarrhea with fever, blood in stool, children under 2, UC",
+    "available_forms": [
+      "Tablet",
+      "Capsule",
+      "Syrup"
+    ]
+  },
+  "ranitidine": {
+    "brand_names": [
+      "Zinetac",
+      "Rantac",
+      "Aciloc",
+      "Histac",
+      "Ranidom"
+    ],
+    "generic": "Ranitidine",
+    "category": "H2 Receptor Antagonist",
+    "uses": "Acidity, GERD, stomach ulcers, Zollinger-Ellison syndrome",
+    "general_guidance": "Take 30 minutes before meals or at bedtime. Avoid alcohol.",
+    "contraindications": "Kidney impairment (dose reduction needed)",
+    "available_forms": [
+      "Tablet",
+      "Syrup",
+      "Injection"
+    ]
+  },
+  "montelukast": {
+    "brand_names": [
+      "Montair",
+      "Singulair",
+      "Romilast",
+      "Telekast",
+      "Montemac"
+    ],
+    "generic": "Montelukast",
+    "category": "Leukotriene Receptor Antagonist",
+    "uses": "Asthma prevention, allergic rhinitis, exercise-induced bronchospasm",
+    "general_guidance": "Take in the evening. NOT for acute asthma attacks. Monitor for mood/behavioral changes.",
+    "contraindications": "Psychiatric disorders (monitor for mood changes)",
+    "available_forms": [
+      "Tablet",
+      "Chewable Tablet",
+      "Granules"
+    ]
+  },
+  "salbutamol": {
+    "brand_names": [
+      "Asthalin",
+      "Ventolin",
+      "Salbair",
+      "Salbutol"
+    ],
+    "generic": "Salbutamol (Albuterol)",
+    "category": "Short-Acting Beta2 Agonist (SABA) / Bronchodilator",
+    "uses": "Acute asthma attack, bronchospasm, COPD \u2014 rescue inhaler",
+    "general_guidance": "Shake inhaler before use. Breathe in slowly. Hold breath 10 seconds after. Rinse mouth after use. For acute attacks only.",
+    "contraindications": "Cardiac arrhythmias (caution)",
+    "available_forms": [
+      "Inhaler (MDI)",
+      "Rotacaps",
+      "Nebulizer solution",
+      "Tablet",
+      "Syrup"
+    ]
+  },
+  "aspirin": {
+    "brand_names": [
+      "Disprin",
+      "Ecosprin",
+      "Aspro",
+      "Loprin",
+      "Cardiopirin"
+    ],
+    "generic": "Aspirin (Acetylsalicylic Acid)",
+    "category": "NSAID / Antiplatelet",
+    "uses": "Pain, fever (low dose), heart attack prevention, stroke prevention, blood clot prevention",
+    "general_guidance": "Low-dose (75mg): take once daily after food for heart protection. High dose: for pain/fever. Avoid in children under 16 (Reye's syndrome).",
+    "contraindications": "Bleeding disorders, stomach ulcers, children under 16, pregnancy, dengue fever, asthma (aspirin-sensitive)",
+    "available_forms": [
+      "Tablet",
+      "Effervescent Tablet",
+      "Enteric-coated Tablet"
+    ]
+  },
+  "clopidogrel": {
+    "brand_names": [
+      "Clopilet",
+      "Plavix",
+      "Plagril",
+      "Deplatt"
+    ],
+    "generic": "Clopidogrel",
+    "category": "Antiplatelet",
+    "uses": "Prevention of heart attack and stroke, after coronary stent placement, ACS",
+    "general_guidance": "Take with or without food. Do not stop without doctor advice. Tell all doctors you take this before any procedure.",
+    "contraindications": "Active bleeding, peptic ulcer, severe liver disease",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "amlodipine": {
+    "brand_names": [
+      "Amlokind",
+      "Amlong",
+      "Norvasc",
+      "Stamlo",
+      "Calcigard"
+    ],
+    "generic": "Amlodipine",
+    "category": "Calcium Channel Blocker (CCB)",
+    "uses": "Hypertension, angina, coronary artery disease",
+    "general_guidance": "Take at same time daily. May cause ankle swelling and flushing initially.",
+    "contraindications": "Severe hypotension, severe aortic stenosis",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "enalapril": {
+    "brand_names": [
+      "Enam",
+      "Vasotec",
+      "Encardil",
+      "Envas"
+    ],
+    "generic": "Enalapril",
+    "category": "ACE Inhibitor",
+    "uses": "Hypertension, heart failure, diabetic kidney disease",
+    "general_guidance": "May cause dry cough in some patients (switch to ARB if bothersome). Check potassium levels.",
+    "contraindications": "Pregnancy, bilateral renal artery stenosis, history of ACE-inhibitor angioedema",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "losartan": {
+    "brand_names": [
+      "Losartas",
+      "Cozaar",
+      "Losacar",
+      "Covance"
+    ],
+    "generic": "Losartan",
+    "category": "Angiotensin Receptor Blocker (ARB)",
+    "uses": "Hypertension, heart failure, diabetic nephropathy, stroke prevention",
+    "general_guidance": "Does NOT cause cough (unlike ACE inhibitors). Take with or without food. Monitor kidney function and potassium.",
+    "contraindications": "Pregnancy, bilateral renal artery stenosis, hyperkalemia",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "telmisartan": {
+    "brand_names": [
+      "Telma",
+      "Telmikind",
+      "Micardis",
+      "Telista"
+    ],
+    "generic": "Telmisartan",
+    "category": "Angiotensin Receptor Blocker (ARB)",
+    "uses": "Hypertension, cardiovascular risk reduction",
+    "general_guidance": "Long-acting \u2014 once daily. Take with or without food. Good choice for patients who develop cough with ACE inhibitors.",
+    "contraindications": "Pregnancy, liver disease, bile duct obstruction",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "propranolol": {
+    "brand_names": [
+      "Inderal",
+      "Ciplar",
+      "Betacap",
+      "Propra"
+    ],
+    "generic": "Propranolol",
+    "category": "Non-selective Beta Blocker",
+    "uses": "Hypertension, angina, arrhythmia, anxiety, tremor, migraine prevention, hyperthyroidism",
+    "general_guidance": "Do NOT stop abruptly \u2014 taper dose. Take at same time daily.",
+    "contraindications": "Asthma, COPD, severe bradycardia, uncontrolled heart failure",
+    "available_forms": [
+      "Tablet",
+      "Injection"
+    ]
+  },
+  "metoprolol": {
+    "brand_names": [
+      "Metolar",
+      "Betaloc",
+      "Seloken",
+      "Met XL"
+    ],
+    "generic": "Metoprolol",
+    "category": "Selective Beta-1 Blocker",
+    "uses": "Hypertension, heart failure, angina, arrhythmia, heart attack prevention",
+    "general_guidance": "Take with food. Do NOT stop abruptly. Safer than propranolol in lung disease.",
+    "contraindications": "Severe bradycardia, cardiogenic shock",
+    "available_forms": [
+      "Tablet",
+      "Extended Release Tablet",
+      "Injection"
+    ]
+  },
+  "warfarin": {
+    "brand_names": [
+      "Warfarin",
+      "Warf",
+      "Coumadin"
+    ],
+    "generic": "Warfarin",
+    "category": "Anticoagulant (Vitamin K Antagonist)",
+    "uses": "DVT, pulmonary embolism, atrial fibrillation, mechanical heart valves",
+    "general_guidance": "Regular INR blood tests required. Very sensitive to food (especially vitamin K in greens) and other medicines. MANY drug interactions.",
+    "contraindications": "Active bleeding, pregnancy, severe liver disease, poor compliance",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "insulin": {
+    "brand_names": [
+      "Huminsulin",
+      "Actrapid",
+      "Mixtard",
+      "Lantus",
+      "Novo-Nordisk"
+    ],
+    "generic": "Insulin",
+    "category": "Antidiabetic (Insulin)",
+    "uses": "Type 1 Diabetes, Type 2 Diabetes uncontrolled on oral meds, Diabetic Ketoacidosis",
+    "general_guidance": "Must be administered by injection. Store in refrigerator. Never freeze. Rotate injection sites.",
+    "contraindications": "Hypoglycemia",
+    "available_forms": [
+      "Injection (Vial)",
+      "Pen Device",
+      "Pump"
+    ]
+  },
+  "levothyroxine": {
+    "brand_names": [
+      "Thyronorm",
+      "Eltroxin",
+      "Synthroid",
+      "Levothyrox"
+    ],
+    "generic": "Levothyroxine (T4)",
+    "category": "Thyroid Hormone Replacement",
+    "uses": "Hypothyroidism, goitre, thyroid cancer (post-surgery)",
+    "general_guidance": "Take on empty stomach 30-60 minutes before breakfast. No calcium, iron, or antacids within 4 hours. Regular TSH testing required.",
+    "contraindications": "Hyperthyroidism, untreated adrenal insufficiency",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "prednisolone": {
+    "brand_names": [
+      "Wysolone",
+      "Hostacortin",
+      "Deltacortril"
+    ],
+    "generic": "Prednisolone",
+    "category": "Corticosteroid",
+    "uses": "Asthma, allergic reactions, autoimmune diseases, inflammatory conditions, skin diseases",
+    "general_guidance": "Take with food. Do NOT stop abruptly after long-term use \u2014 taper dose. Take in the morning to minimize adrenal suppression.",
+    "contraindications": "Active infections (untreated), peptic ulcers, diabetes (worsens control), osteoporosis",
+    "available_forms": [
+      "Tablet",
+      "Injection",
+      "Eye Drops",
+      "Syrup"
+    ]
+  },
+  "hydroxychloroquine": {
+    "brand_names": [
+      "Plaquenil",
+      "HCQS",
+      "Hydroxychloroquine-IP"
+    ],
+    "generic": "Hydroxychloroquine",
+    "category": "Antimalarial / DMARD",
+    "uses": "Malaria prevention/treatment, Rheumatoid Arthritis, Lupus (SLE)",
+    "general_guidance": "Take with food or milk. Eye examination required every year during long-term use (retinal toxicity risk).",
+    "contraindications": "Retinal disease, G6PD deficiency",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "alprazolam": {
+    "brand_names": [
+      "Alprax",
+      "Restyl",
+      "Xanax",
+      "Alprocontin"
+    ],
+    "generic": "Alprazolam",
+    "category": "Benzodiazepine (Anxiolytic)",
+    "uses": "Anxiety disorders, panic disorder, short-term anxiety relief",
+    "general_guidance": "PRESCRIPTION ONLY. Risk of dependence \u2014 use minimum effective dose for shortest duration. Do NOT stop abruptly. Avoid alcohol.",
+    "contraindications": "Respiratory disease, sleep apnea, liver disease, pregnancy, alcohol dependence",
+    "available_forms": [
+      "Tablet",
+      "Extended Release Tablet"
+    ]
+  },
+  "escitalopram": {
+    "brand_names": [
+      "Nexito",
+      "Stalopam",
+      "Cipralex",
+      "Rexipra"
+    ],
+    "generic": "Escitalopram",
+    "category": "SSRI (Antidepressant)",
+    "uses": "Depression, generalised anxiety disorder, panic disorder, OCD",
+    "general_guidance": "Takes 2-4 weeks for full effect. Do NOT stop abruptly. Take at same time daily.",
+    "contraindications": "MAO inhibitor use within 14 days, long QT syndrome",
+    "available_forms": [
+      "Tablet",
+      "Drops"
+    ]
+  },
+  "sertraline": {
+    "brand_names": [
+      "Zoloft",
+      "Serta",
+      "Daxid",
+      "Serline"
+    ],
+    "generic": "Sertraline",
+    "category": "SSRI (Antidepressant)",
+    "uses": "Depression, OCD, PTSD, panic disorder, social anxiety, PMDD",
+    "general_guidance": "Start low and titrate. Takes 4-6 weeks for full effect. Take with food.",
+    "contraindications": "MAO inhibitors within 14 days",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "clonazepam": {
+    "brand_names": [
+      "Rivotril",
+      "Clonapax",
+      "Zapiz",
+      "Lonazep"
+    ],
+    "generic": "Clonazepam",
+    "category": "Benzodiazepine (Anticonvulsant/Anxiolytic)",
+    "uses": "Epilepsy, panic disorder, restless leg syndrome, anxiety",
+    "general_guidance": "PRESCRIPTION ONLY. Dependence risk. Do not stop abruptly \u2014 may trigger seizures.",
+    "contraindications": "Respiratory disease, liver disease, pregnancy",
+    "available_forms": [
+      "Tablet",
+      "Injection"
+    ]
+  },
+  "pregabalin": {
+    "brand_names": [
+      "Pregabalin",
+      "Lyrica",
+      "Pregeb",
+      "Pregalin"
+    ],
+    "generic": "Pregabalin",
+    "category": "Anticonvulsant / Neuropathic Pain Agent",
+    "uses": "Neuropathic pain (diabetic, post-herpetic), fibromyalgia, epilepsy, generalized anxiety",
+    "general_guidance": "May cause dizziness and drowsiness. Do not drive initially. Do not stop abruptly.",
+    "contraindications": "Kidney disease (dose adjustment), pregnancy",
+    "available_forms": [
+      "Capsule",
+      "Tablet"
+    ]
+  },
+  "gabapentin": {
+    "brand_names": [
+      "Gabapin",
+      "Neurontin",
+      "Gabapax",
+      "Gabantin"
+    ],
+    "generic": "Gabapentin",
+    "category": "Anticonvulsant / Neuropathic Pain Agent",
+    "uses": "Neuropathic pain, epilepsy, postherpetic neuralgia, restless legs syndrome",
+    "general_guidance": "Start low, increase gradually. May cause drowsiness. Avoid abrupt stoppage.",
+    "contraindications": "Kidney disease (dose adjustment)",
+    "available_forms": [
+      "Capsule",
+      "Tablet"
+    ]
+  },
+  "tamsulosin": {
+    "brand_names": [
+      "Urimax",
+      "Flomax",
+      "Veltam",
+      "Contiflo"
+    ],
+    "generic": "Tamsulosin",
+    "category": "Alpha-1 Blocker (BPH treatment)",
+    "uses": "Benign Prostatic Hyperplasia (BPH) \u2014 improves urine flow, kidney stone passage",
+    "general_guidance": "Take 30 minutes after same meal daily. May cause dizziness on standing (postural hypotension). Do not crush.",
+    "contraindications": "Severe liver disease, orthostatic hypotension",
+    "available_forms": [
+      "Capsule",
+      "Tablet"
+    ]
+  },
+  "sildenafil": {
+    "brand_names": [
+      "Viagra",
+      "Penegra",
+      "Manforce",
+      "Suhagra"
+    ],
+    "generic": "Sildenafil",
+    "category": "PDE5 Inhibitor",
+    "uses": "Erectile dysfunction, pulmonary arterial hypertension",
+    "general_guidance": "Take 30-60 minutes before sexual activity. Do NOT use with nitrates (dangerous blood pressure drop). Avoid heavy meals before use.",
+    "contraindications": "Nitrate use, severe heart disease, recent stroke/heart attack, hypotension",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "clotrimazole": {
+    "brand_names": [
+      "Candid",
+      "Canesten",
+      "Clotrimaz",
+      "Fungicip"
+    ],
+    "generic": "Clotrimazole",
+    "category": "Antifungal (Imidazole)",
+    "uses": "Fungal skin infections, athlete's foot, jock itch, ringworm, oral thrush, vaginal candidiasis",
+    "general_guidance": "Apply thin layer to affected area and 2cm around it. Continue for 1-2 weeks after symptoms clear.",
+    "contraindications": "Hypersensitivity to imidazoles",
+    "available_forms": [
+      "Cream",
+      "Dusting Powder",
+      "Vaginal Tablet",
+      "Solution",
+      "Lozenges"
+    ]
+  },
+  "fluconazole": {
+    "brand_names": [
+      "Flucos",
+      "Forcan",
+      "Zocon",
+      "Diflucan"
+    ],
+    "generic": "Fluconazole",
+    "category": "Antifungal (Triazole) \u2014 Oral",
+    "uses": "Vaginal candidiasis, oral thrush, systemic fungal infections, ringworm",
+    "general_guidance": "Single 150mg dose for vaginal thrush. Take with or without food.",
+    "contraindications": "Liver disease, QT prolongation, pregnancy",
+    "available_forms": [
+      "Tablet",
+      "Capsule",
+      "Suspension",
+      "Injection"
+    ]
+  },
+  "terbinafine": {
+    "brand_names": [
+      "Terbicip",
+      "Lamisil",
+      "Terbicap",
+      "Fungotek"
+    ],
+    "generic": "Terbinafine",
+    "category": "Antifungal (Allylamine)",
+    "uses": "Nail fungal infections (onychomycosis), ringworm, athlete's foot \u2014 very effective for nails",
+    "general_guidance": "For nail infections: take for 6 weeks (fingernails), 12 weeks (toenails). Continue cream 1-2 weeks after clearing.",
+    "contraindications": "Liver disease",
+    "available_forms": [
+      "Tablet",
+      "Cream",
+      "Gel",
+      "Solution"
+    ]
+  },
+  "acyclovir": {
+    "brand_names": [
+      "Zovirax",
+      "Acivir",
+      "Herpex",
+      "Herperax"
+    ],
+    "generic": "Acyclovir",
+    "category": "Antiviral",
+    "uses": "Herpes simplex (cold sores, genital herpes), chickenpox (varicella), herpes zoster (shingles)",
+    "general_guidance": "Start as early as possible. Drink plenty of water to prevent kidney problems. Take with or without food.",
+    "contraindications": "Kidney disease (dose adjustment)",
+    "available_forms": [
+      "Tablet",
+      "Cream",
+      "Eye Ointment",
+      "Injection"
+    ]
+  },
+  "hydroxyzine": {
+    "brand_names": [
+      "Atarax",
+      "Vistaril",
+      "Ucerax"
+    ],
+    "generic": "Hydroxyzine",
+    "category": "Antihistamine / Anxiolytic",
+    "uses": "Anxiety, itching (urticaria, eczema), nausea, pre-operative sedation",
+    "general_guidance": "Causes significant drowsiness \u2014 take at bedtime or when not driving.",
+    "contraindications": "Pregnancy, QT prolongation, porphyria",
+    "available_forms": [
+      "Tablet",
+      "Syrup",
+      "Injection"
+    ]
+  },
+  "lactulose": {
+    "brand_names": [
+      "Duphalac",
+      "Lactilol",
+      "Laxatab",
+      "Portalac"
+    ],
+    "generic": "Lactulose",
+    "category": "Osmotic Laxative",
+    "uses": "Constipation, hepatic encephalopathy",
+    "general_guidance": "Takes 24-48 hours to work. Can be taken with water, juice or milk. Safe for long-term use.",
+    "contraindications": "Galactosaemia, intestinal obstruction",
+    "available_forms": [
+      "Syrup",
+      "Powder",
+      "Sachet"
+    ]
+  },
+  "iron_folate": {
+    "brand_names": [
+      "Ferrous Sulphate",
+      "Fefol",
+      "Iberet",
+      "Autrin",
+      "Haemup"
+    ],
+    "generic": "Ferrous Sulphate + Folic Acid",
+    "category": "Iron Supplement / Haematinic",
+    "uses": "Iron deficiency anaemia, pregnancy anaemia, folic acid deficiency",
+    "general_guidance": "Take on empty stomach for best absorption, but take with food if stomach upset. Vitamin C (orange juice) increases absorption. Black stools are normal and harmless.",
+    "contraindications": "Haemochromatosis, haemolytic anaemia",
+    "available_forms": [
+      "Tablet",
+      "Syrup",
+      "Capsule"
+    ]
+  },
+  "vitamin_d": {
+    "brand_names": [
+      "Calcirol",
+      "Arachitol",
+      "Uprise-D3",
+      "D3-Must",
+      "Tayo"
+    ],
+    "generic": "Cholecalciferol (Vitamin D3)",
+    "category": "Vitamin Supplement",
+    "uses": "Vitamin D deficiency, osteoporosis, bone health, immune support, muscle weakness, depression",
+    "general_guidance": "Take with fatty meal (improves absorption). Most Indians are deficient \u2014 get levels tested. Weekly/monthly high-dose options available.",
+    "contraindications": "Hypercalcaemia, sarcoidosis, severe kidney disease",
+    "available_forms": [
+      "Capsule",
+      "Tablet",
+      "Sachet",
+      "Injection",
+      "Drops"
+    ]
+  },
+  "vitamin_b12": {
+    "brand_names": [
+      "Methylcobalamin",
+      "Neurobion",
+      "Cobadex",
+      "Wincobion",
+      "Nurokind"
+    ],
+    "generic": "Methylcobalamin (Vitamin B12)",
+    "category": "Vitamin Supplement / Neuroprotective",
+    "uses": "B12 deficiency, peripheral neuropathy, anaemia, fatigue, vegetarian diet supplementation",
+    "general_guidance": "Take with or without food. Vegetarians and vegans are at high risk of deficiency. Sublingual forms have better absorption.",
+    "contraindications": "Leber's disease (optic nerve atrophy)",
+    "available_forms": [
+      "Tablet",
+      "Sublingual Tablet",
+      "Injection",
+      "Syrup"
+    ]
+  },
+  "calcium_vitamin_d": {
+    "brand_names": [
+      "Shelcal",
+      "Calcimax",
+      "Calcium Sandoz",
+      "Cal-C-Vita"
+    ],
+    "generic": "Calcium Carbonate + Vitamin D3",
+    "category": "Calcium Supplement",
+    "uses": "Calcium deficiency, osteoporosis prevention, post-menopausal bone loss, rickets",
+    "general_guidance": "Take with meals for better absorption. Calcium carbonate needs stomach acid. Space doses throughout day (body absorbs max ~500mg at once).",
+    "contraindications": "Hypercalcaemia, kidney stones (consult doctor), sarcoidosis",
+    "available_forms": [
+      "Tablet",
+      "Chewable Tablet",
+      "Suspension"
+    ]
+  },
+  "multivitamin": {
+    "brand_names": [
+      "Supradyn",
+      "Becosules",
+      "Revital",
+      "Centrum",
+      "A-Z"
+    ],
+    "generic": "Multivitamin + Multimineral",
+    "category": "Vitamin/Mineral Supplement",
+    "uses": "Nutritional deficiencies, general health maintenance, recovery from illness, energy",
+    "general_guidance": "Take with breakfast. Do not exceed recommended dose. Fat-soluble vitamins (A, D, E, K) can accumulate \u2014 take as directed.",
+    "contraindications": "Specific vitamin toxicities with overdose",
+    "available_forms": [
+      "Tablet",
+      "Capsule",
+      "Effervescent Tablet",
+      "Syrup"
+    ]
+  },
+  "oral_rehydration": {
+    "brand_names": [
+      "Electral",
+      "Enerzal",
+      "Pedialyte",
+      "WHO-ORS"
+    ],
+    "generic": "Oral Rehydration Salts (ORS)",
+    "category": "Rehydration Therapy",
+    "uses": "Dehydration from diarrhea, vomiting, fever, heat exhaustion, exercise",
+    "general_guidance": "Dissolve one sachet in 1 litre of clean water. Drink slowly. Make fresh every 24 hours. Do not add extra water or sugar.",
+    "contraindications": "Severe vomiting preventing oral intake (use IV fluids then)",
+    "available_forms": [
+      "Sachet",
+      "Powder",
+      "Ready-to-drink"
+    ]
+  },
+  "probiotics": {
+    "brand_names": [
+      "Enterogermina",
+      "Vizylac",
+      "Bifilac",
+      "Gutgood",
+      "Ultibro"
+    ],
+    "generic": "Probiotic (Lactobacillus, Bacillus clausii)",
+    "category": "Probiotic / Gut Health",
+    "uses": "Antibiotic-associated diarrhea, IBS, gastroenteritis, restoration of gut flora, bloating",
+    "general_guidance": "Take 2 hours apart from antibiotics. Can be taken with food. Keep refrigerated unless shelf-stable formulation.",
+    "contraindications": "Severely immunocompromised patients (consult doctor)",
+    "available_forms": [
+      "Sachet",
+      "Vial",
+      "Capsule",
+      "Tablet"
+    ]
+  },
+  "cyclopam": {
+    "brand_names": [
+      "Cyclopam",
+      "Colimex",
+      "Baralgan",
+      "Spasmocip"
+    ],
+    "generic": "Dicyclomine + Paracetamol",
+    "category": "Antispasmodic + Analgesic",
+    "uses": "Stomach cramps, IBS pain, menstrual cramps, renal colic pain",
+    "general_guidance": "Take 30 minutes before meals for stomach cramps. May cause dryness in mouth and blurred vision.",
+    "contraindications": "Glaucoma, prostate enlargement, myasthenia gravis",
+    "available_forms": [
+      "Tablet",
+      "Syrup",
+      "Injection"
+    ]
+  },
+  "mefenamic_acid": {
+    "brand_names": [
+      "Meftal",
+      "Meftal Spas",
+      "Ponstan",
+      "Niftas"
+    ],
+    "generic": "Mefenamic Acid",
+    "category": "NSAID (Fenamate)",
+    "uses": "Menstrual pain (dysmenorrhoea), mild to moderate pain, dental pain, postoperative pain",
+    "general_guidance": "Take with food. Start 1-2 days before expected period onset for best effect on menstrual pain.",
+    "contraindications": "Stomach ulcers, kidney disease, pregnancy, IBD",
+    "available_forms": [
+      "Tablet",
+      "Capsule",
+      "Suspension"
+    ]
+  },
+  "dolo_650": {
+    "brand_names": [
+      "Dolo 650",
+      "Dolo 500",
+      "Dolo"
+    ],
+    "generic": "Paracetamol 650mg",
+    "category": "Analgesic / Antipyretic",
+    "uses": "Fever, headache, body ache, cold & flu \u2014 most commonly used medicine in India for COVID-19 fever",
+    "general_guidance": "Most popular fever tablet in India. Do not combine with other paracetamol products. Max 4 doses/day. Take with water.",
+    "contraindications": "Liver disease, alcohol use",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "crocin": {
+    "brand_names": [
+      "Crocin",
+      "Crocin Advance",
+      "Crocin Pain Relief",
+      "Crocin Cold & Flu"
+    ],
+    "generic": "Paracetamol",
+    "category": "Analgesic / Antipyretic",
+    "uses": "Fever, headache, body ache, cold & flu symptoms (Crocin Cold variants)",
+    "general_guidance": "Widely available OTC. Follow dosage on pack. Do not double-dose if already taking another paracetamol product.",
+    "contraindications": "Liver disease",
+    "available_forms": [
+      "Tablet",
+      "Syrup",
+      "Drops",
+      "Cold & Flu Tablet"
+    ]
+  },
+  "norflox_tz": {
+    "brand_names": [
+      "Norflox-TZ",
+      "Ciplox-TZ",
+      "Norbid-TZ",
+      "Oflox-OZ"
+    ],
+    "generic": "Norfloxacin + Tinidazole",
+    "category": "Antibiotic + Antiprotozoal",
+    "uses": "Infectious diarrhea, gastroenteritis, traveller's diarrhea, amoebic dysentery \u2014 very commonly prescribed in India for gut infections",
+    "general_guidance": "Take with food. Complete course. AVOID ALCOHOL completely (tinidazole reaction). Prescription required.",
+    "contraindications": "Alcohol, pregnancy, children under 12, epilepsy",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "stugeron": {
+    "brand_names": [
+      "Stugeron",
+      "Cinaron",
+      "Vertigon"
+    ],
+    "generic": "Cinnarizine",
+    "category": "Antihistamine / Vestibular Suppressant",
+    "uses": "Vertigo, dizziness, motion sickness, Meniere's disease, tinnitus",
+    "general_guidance": "Take with food. Causes drowsiness \u2014 avoid driving. Very effective for vertigo.",
+    "contraindications": "Parkinson's disease, children under 5",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "vertin": {
+    "brand_names": [
+      "Vertin",
+      "Betaserc",
+      "Betavert"
+    ],
+    "generic": "Betahistine",
+    "category": "Histamine Analogue / Vestibular Agent",
+    "uses": "Meniere's disease, vertigo, dizziness, tinnitus, balance disorders",
+    "general_guidance": "Take with food. Usually given 3 times daily. Long-term treatment may be needed for Meniere's.",
+    "contraindications": "Pheochromocytoma, peptic ulcer (caution), asthma",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "codeine": {
+    "brand_names": [
+      "Codistar",
+      "Phensedyl",
+      "Tossex"
+    ],
+    "generic": "Codeine",
+    "category": "Opioid / Cough Suppressant",
+    "uses": "Severe cough, mild to moderate pain",
+    "general_guidance": "PRESCRIPTION ONLY. May cause drowsiness and constipation. Addiction risk \u2014 use minimum effective dose.",
+    "contraindications": "Children under 12, respiratory depression, asthma, liver disease",
+    "available_forms": [
+      "Tablet",
+      "Syrup"
+    ]
+  },
+  "minoxidil": {
+    "brand_names": [
+      "Tugain",
+      "Mintop",
+      "Rogaine",
+      "Alovin"
+    ],
+    "generic": "Minoxidil",
+    "category": "Hair Growth Stimulant / Vasodilator",
+    "uses": "Male pattern baldness (androgenic alopecia), female hair loss",
+    "general_guidance": "Apply to dry scalp twice daily. Results in 3-6 months. Must continue use \u2014 hair loss returns when stopped.",
+    "contraindications": "Scalp skin conditions, pregnancy (oral form)",
+    "available_forms": [
+      "Topical Solution 2%/5%",
+      "Topical Foam",
+      "Tablet (oral, prescription only)"
+    ]
+  },
+  "clarithromycin": {
+    "brand_names": [
+      "Zoclar",
+      "Claribid",
+      "Klaricid",
+      "Clariwin",
+      "Biaxin",
+      "Zoclar 500"
+    ],
+    "generic": "Clarithromycin",
+    "category": "Antibiotic (Macrolide)",
+    "uses": "Respiratory infections, sinusitis, skin infections, H. pylori, community-acquired pneumonia",
+    "general_guidance": "Take with or without food. Complete the full course. Avoid grapefruit juice.",
+    "contraindications": "Liver disease, heart rhythm problems (QT prolongation), certain drug interactions",
+    "available_forms": [
+      "Tablet",
+      "Capsule",
+      "Suspension"
+    ]
+  },
+  "isoxsuprine": {
+    "brand_names": [
+      "Gestakind",
+      "Duvadilan",
+      "Vasodilan",
+      "Isoxsuprine"
+    ],
+    "generic": "Isoxsuprine",
+    "category": "Vasodilator / Uterine Relaxant",
+    "uses": "Premature labour (tocolytic), peripheral vascular disease, threatened abortion",
+    "general_guidance": "Take as prescribed. Used in obstetrics to relax uterine muscles. Do not stop without doctor advice.",
+    "contraindications": "Active bleeding, immediately post-partum, heart disease",
+    "available_forms": [
+      "Tablet",
+      "Injection"
+    ]
+  },
+  "abciximab": {
+    "brand_names": [
+      "Abciximab",
+      "ReoPro",
+      "Abciximab Injection"
+    ],
+    "generic": "Abciximab",
+    "category": "Antiplatelet (Glycoprotein IIb/IIIa inhibitor)",
+    "uses": "Prevention of blood clots during coronary procedures, unstable angina",
+    "general_guidance": "Hospital use only \u2014 administered by injection under medical supervision.",
+    "contraindications": "Active bleeding, recent surgery, severe hypertension",
+    "available_forms": [
+      "Injection (IV)"
+    ]
+  },
+  "doxylamine_pyridoxine": {
+    "brand_names": [
+      "Vomilast",
+      "Bonamine",
+      "Diclegis",
+      "Bendectin",
+      "Doxinate"
+    ],
+    "generic": "Doxylamine + Pyridoxine (Vitamin B6)",
+    "category": "Antiemetic / Antihistamine",
+    "uses": "Nausea and vomiting in pregnancy (morning sickness), general nausea",
+    "general_guidance": "Take at bedtime as directed. May cause drowsiness. Do not drive after taking.",
+    "contraindications": "Glaucoma, urinary retention, liver disease",
+    "available_forms": [
+      "Tablet",
+      "Extended Release Tablet"
+    ]
+  },
+  "combiflam": {
+    "brand_names": [
+      "Combiflam",
+      "Flexon",
+      "Ibugesic Plus"
+    ],
+    "generic": "Ibuprofen 400mg + Paracetamol 325mg",
+    "category": "NSAID + Analgesic Combination",
+    "uses": "Pain relief, fever, headache, dental pain, menstrual cramps, muscle pain \u2014 dual action combination",
+    "general_guidance": "Always take with food. Very effective for pain. Do not use on empty stomach.",
+    "contraindications": "Stomach ulcers, kidney disease, pregnancy",
+    "available_forms": [
+      "Tablet",
+      "Syrup"
+    ]
+  },
+  "pan_d": {
+    "brand_names": [
+      "Pan-D",
+      "Nexpro-D",
+      "Pantop-D",
+      "Rabium-D"
+    ],
+    "generic": "Pantoprazole + Domperidone",
+    "category": "PPI + Prokinetic Combination",
+    "uses": "Acidity with nausea, GERD, bloating, gastroparesis \u2014 very commonly prescribed in India",
+    "general_guidance": "Take 30 minutes before breakfast. One of the most prescribed combinations for acidity + nausea in India.",
+    "contraindications": "Liver disease, heart problems (domperidone)",
+    "available_forms": [
+      "Capsule",
+      "Tablet"
+    ]
+  },
+  "cheston_cold": {
+    "brand_names": [
+      "Cheston Cold",
+      "Sinarest",
+      "D-Cold Total",
+      "Coldact",
+      "Alex"
+    ],
+    "generic": "Cetirizine + Paracetamol + Phenylephrine",
+    "category": "Cold & Flu Combination",
+    "uses": "Common cold, runny nose, sneezing, fever, congestion \u2014 all-in-one cold tablet",
+    "general_guidance": "Causes drowsiness \u2014 avoid driving. Take at bedtime preferably. Do not take with other antihistamines.",
+    "contraindications": "Hypertension, heart disease, glaucoma",
+    "available_forms": [
+      "Tablet",
+      "Syrup"
+    ]
+  },
+  "benadryl": {
+    "brand_names": [
+      "Benadryl",
+      "Tussi-Q",
+      "Phensedyl Cough Linctus"
+    ],
+    "generic": "Diphenhydramine / Codeine combinations",
+    "category": "Cough Suppressant / Antihistamine",
+    "uses": "Cough (especially wet cough with mucus), allergic cough, cold-related cough",
+    "general_guidance": "Causes significant drowsiness. Do not drive. Avoid in children under 2. Do not exceed recommended dose.",
+    "contraindications": "Glaucoma, prostate enlargement, asthma (dry cough variant), children under 2",
+    "available_forms": [
+      "Syrup",
+      "Liquid"
+    ]
+  },
+  "ascoril": {
+    "brand_names": [
+      "Ascoril",
+      "Ascoril LS",
+      "Ascoril D",
+      "Ambrodil-S"
+    ],
+    "generic": "Ambroxol + Guaifenesin + Levosalbutamol",
+    "category": "Expectorant + Bronchodilator",
+    "uses": "Wet cough with mucus, bronchitis, chest congestion, COPD \u2014 helps loosen and expel mucus",
+    "general_guidance": "Shake well before use. Take with water. Commonly prescribed for productive cough in India.",
+    "contraindications": "Heart disease, diabetes (contains sugar), hyperthyroidism",
+    "available_forms": [
+      "Syrup",
+      "Tablet"
+    ]
+  },
+  "meftal_spas": {
+    "brand_names": [
+      "Meftal Spas",
+      "Meftal-Spas",
+      "Cyclopam",
+      "Spasmonil"
+    ],
+    "generic": "Mefenamic Acid + Dicyclomine",
+    "category": "NSAID + Antispasmodic Combination",
+    "uses": "Menstrual cramps (dysmenorrhoea), stomach spasms, IBS pain \u2014 very commonly used by women in India",
+    "general_guidance": "Take with food. Start 1-2 days before expected period for best effect on cramps.",
+    "contraindications": "Stomach ulcers, kidney disease, pregnancy, glaucoma",
+    "available_forms": [
+      "Tablet",
+      "Suspension"
+    ]
+  },
+  "allegra_120": {
+    "brand_names": [
+      "Allegra 120",
+      "Allegra 180",
+      "Fexo 120",
+      "Telfast 120"
+    ],
+    "generic": "Fexofenadine 120mg",
+    "category": "Non-drowsy Antihistamine",
+    "uses": "Allergic rhinitis, hives, seasonal allergies, dust allergy, skin allergies \u2014 does NOT cause drowsiness",
+    "general_guidance": "Best antihistamine for daytime use \u2014 non-drowsy. Take once daily. Do not take with grapefruit juice.",
+    "contraindications": "Severe kidney disease",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "montair_lc": {
+    "brand_names": [
+      "Montair LC",
+      "Levocet M",
+      "Montek LC",
+      "Atarax LC"
+    ],
+    "generic": "Montelukast + Levocetirizine",
+    "category": "Leukotriene Antagonist + Antihistamine Combination",
+    "uses": "Allergic rhinitis, chronic urticaria, asthma with allergy \u2014 very popular combination in India",
+    "general_guidance": "Take at night. One of the most prescribed allergy combinations in India.",
+    "contraindications": "Liver disease, psychiatric history (montelukast)",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "taxim_o": {
+    "brand_names": [
+      "Taxim-O",
+      "Cefolac",
+      "Cefspan",
+      "Zifi"
+    ],
+    "generic": "Cefixime",
+    "category": "Antibiotic (3rd Generation Cephalosporin)",
+    "uses": "UTI, typhoid, tonsillitis, pneumonia, gonorrhoea \u2014 widely prescribed antibiotic in India",
+    "general_guidance": "Take with food to reduce stomach upset. Complete full course. Prescription required.",
+    "contraindications": "Penicillin/cephalosporin allergy, kidney disease",
+    "available_forms": [
+      "Tablet",
+      "Capsule",
+      "Suspension"
+    ]
+  },
+  "augmentin_625": {
+    "brand_names": [
+      "Augmentin 625",
+      "Clavam 625",
+      "Moxclav 625",
+      "Enhancin 625"
+    ],
+    "generic": "Amoxicillin 500mg + Clavulanic Acid 125mg",
+    "category": "Antibiotic (Penicillin + Beta-lactamase inhibitor)",
+    "uses": "Sinusitis, tonsillitis, chest infections, skin infections, UTI, dental abscess \u2014 broad spectrum antibiotic",
+    "general_guidance": "Take with meals. Complete the full course. Very commonly prescribed in India.",
+    "contraindications": "Penicillin allergy, liver problems",
+    "available_forms": [
+      "Tablet",
+      "Suspension"
+    ]
+  },
+  "zerodol_p": {
+    "brand_names": [
+      "Zerodol-P",
+      "Zerodol SP",
+      "Hifenac P",
+      "Dolowin Plus"
+    ],
+    "generic": "Aceclofenac + Paracetamol",
+    "category": "NSAID + Analgesic Combination",
+    "uses": "Joint pain, arthritis, back pain, dental pain, post-operative pain \u2014 commonly prescribed pain combination in India",
+    "general_guidance": "Take with food. Very effective for musculoskeletal pain. Do not use long-term without doctor advice.",
+    "contraindications": "Stomach ulcers, kidney/liver disease, pregnancy",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "aceclofenac": {
+    "brand_names": [
+      "Zerodol",
+      "Hifenac",
+      "Dolowin",
+      "Acenac",
+      "Ace Proxyvon"
+    ],
+    "generic": "Aceclofenac",
+    "category": "NSAID / Anti-inflammatory",
+    "uses": "Arthritis, back pain, joint pain, dental pain, sports injuries \u2014 popular NSAID in India",
+    "general_guidance": "Take with food. Better gastric safety than Diclofenac. Common pain killer in India.",
+    "contraindications": "Stomach ulcers, kidney disease, heart failure",
+    "available_forms": [
+      "Tablet",
+      "Gel"
+    ]
+  },
+  "p_500": {
+    "brand_names": [
+      "P 500",
+      "Paracip 500",
+      "Calpol 500",
+      "Pyrigesic 500"
+    ],
+    "generic": "Paracetamol 500mg",
+    "category": "Analgesic / Antipyretic",
+    "uses": "Mild fever, headache, mild pain \u2014 standard 500mg paracetamol",
+    "general_guidance": "OTC. Standard adult dose. Do not exceed 4g/day. Safe for most people.",
+    "contraindications": "Liver disease",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "voveran_gel": {
+    "brand_names": [
+      "Voveran Gel",
+      "Voltaren Gel",
+      "Diclogel",
+      "Diclomol Gel"
+    ],
+    "generic": "Diclofenac Diethylamine Gel 1%",
+    "category": "Topical NSAID",
+    "uses": "Local pain relief for joint pain, sports injuries, back pain, muscle strains \u2014 applied directly to skin",
+    "general_guidance": "Apply thin layer to affected area 3-4 times daily. Do not apply on broken skin. Wash hands after.",
+    "contraindications": "Open wounds, eczema on application area",
+    "available_forms": [
+      "Gel",
+      "Cream"
+    ]
+  },
+  "moov": {
+    "brand_names": [
+      "Moov",
+      "Volini",
+      "Iodex",
+      "Relispray",
+      "Omnigel"
+    ],
+    "generic": "Diclofenac / Methyl Salicylate / Camphor (topical)",
+    "category": "Topical Analgesic",
+    "uses": "Muscle pain, joint pain, sprains, back pain \u2014 applied externally for fast local relief",
+    "general_guidance": "Apply and massage gently. Do not use on open wounds. Keep away from eyes. Very popular OTC pain relief in India.",
+    "contraindications": "Broken skin, open wounds",
+    "available_forms": [
+      "Gel",
+      "Spray",
+      "Cream"
+    ]
+  },
+  "digene": {
+    "brand_names": [
+      "Digene",
+      "Gelusil",
+      "Mucaine Gel",
+      "Antacid Plus",
+      "Eno"
+    ],
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "category": "Antacid",
+    "uses": "Immediate relief from acidity, heartburn, gas, bloating, sour stomach \u2014 most popular antacid in India",
+    "general_guidance": "Chew or take as liquid after meals and at bedtime. Provides instant relief. Not for long-term use.",
+    "contraindications": "Kidney disease (aluminium accumulation)",
+    "available_forms": [
+      "Tablet (chewable)",
+      "Gel/Liquid",
+      "Powder"
+    ]
+  },
+  "pudin_hara": {
+    "brand_names": [
+      "Pudin Hara",
+      "Pudinhara Pearls",
+      "Mint-O",
+      "Hajmola"
+    ],
+    "generic": "Pudina (Peppermint) Extract",
+    "category": "Herbal Digestive / Carminative",
+    "uses": "Gas, bloating, indigestion, nausea, stomach discomfort \u2014 traditional Indian digestive remedy",
+    "general_guidance": "Take after meals. Safe for most ages. Very popular OTC digestive in India.",
+    "contraindications": "GERD (may worsen), young children",
+    "available_forms": [
+      "Liquid drops",
+      "Pearls/Capsules",
+      "Tablet"
+    ]
+  },
+  "liv_52": {
+    "brand_names": [
+      "Liv-52",
+      "Liv 52 DS",
+      "Livergen",
+      "Himplasia"
+    ],
+    "generic": "Himalaya Liv.52 (Caper Bush + Chicory herbal)",
+    "category": "Herbal Hepatoprotective",
+    "uses": "Liver protection, fatty liver, loss of appetite, post-alcohol liver support, hepatitis support",
+    "general_guidance": "Ayurvedic liver tonic. Take with meals. Long-term safe use. Very popular OTC supplement in India.",
+    "contraindications": "No major contraindications. Consult doctor for serious liver disease.",
+    "available_forms": [
+      "Tablet",
+      "Syrup",
+      "DS (Double Strength) Tablet"
+    ]
+  },
+  "revital": {
+    "brand_names": [
+      "Revital H",
+      "Revital Woman",
+      "Supradyn",
+      "Centrum",
+      "A-Z"
+    ],
+    "generic": "Multivitamin + Ginseng (Revital) / Multivitamin-Multimineral",
+    "category": "Multivitamin / Energy Supplement",
+    "uses": "General health maintenance, fatigue, weakness, nutritional gaps, post-illness recovery, energy",
+    "general_guidance": "Take with breakfast. One of India's most popular health supplements. Do not exceed recommended dose.",
+    "contraindications": "Hypervitaminosis with overdose",
+    "available_forms": [
+      "Capsule",
+      "Tablet",
+      "Effervescent"
+    ]
+  },
+  "ors_electral": {
+    "brand_names": [
+      "Electral",
+      "Enerzal",
+      "ORS Plus",
+      "Pedialyte",
+      "WHO-ORS"
+    ],
+    "generic": "Oral Rehydration Salts (Sodium + Potassium + Glucose)",
+    "category": "Rehydration Therapy",
+    "uses": "Dehydration from diarrhea, vomiting, fever, heat, exercise \u2014 most important OTC medicine in India",
+    "general_guidance": "Mix 1 sachet in 1 litre clean water. Drink slowly. Make fresh every 24 hours. Essential for diarrhea management.",
+    "contraindications": "Severe vomiting preventing oral intake (use IV then)",
+    "available_forms": [
+      "Sachet",
+      "Powder",
+      "Ready-to-drink"
+    ]
+  },
+  "d_cold": {
+    "brand_names": [
+      "D-Cold Total",
+      "D-Cold",
+      "Coldarin",
+      "Coriminic"
+    ],
+    "generic": "Paracetamol + Chlorpheniramine + Phenylephrine",
+    "category": "Cold & Decongestant Combination",
+    "uses": "Common cold, nasal congestion, runny nose, sneezing, fever \u2014 classic Indian cold medicine",
+    "general_guidance": "Causes drowsiness. Take at night. One of India's oldest cold remedies.",
+    "contraindications": "Hypertension, heart disease, prostate problems",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "pantop_d": {
+    "brand_names": [
+      "Pantop-D",
+      "Pan-D",
+      "Pantocid-D",
+      "Nexpro-D"
+    ],
+    "generic": "Pantoprazole + Domperidone",
+    "category": "PPI + Prokinetic",
+    "uses": "Acidity with bloating/nausea, GERD, reflux disease \u2014 one of the top 10 prescribed medicines in India",
+    "general_guidance": "Take 30 min before breakfast. Very effective combination for post-meal acidity and bloating.",
+    "contraindications": "Liver disease, heart arrhythmia",
+    "available_forms": [
+      "Capsule"
+    ]
+  },
+  "sporlac": {
+    "brand_names": [
+      "Sporlac",
+      "Sporolac",
+      "Bifilac",
+      "Gutgood",
+      "Enterogermina"
+    ],
+    "generic": "Lactobacillus Sporogenes (Probiotic)",
+    "category": "Probiotic",
+    "uses": "Antibiotic-associated diarrhea, IBS, restoring gut flora, bloating, digestive issues",
+    "general_guidance": "Take 2 hours away from antibiotics. Can take with food. Safe for all ages.",
+    "contraindications": "Severely immunocompromised patients",
+    "available_forms": [
+      "Tablet",
+      "Sachet",
+      "Drops"
+    ]
+  },
+  "zincovit": {
+    "brand_names": [
+      "Zincovit",
+      "Zincoderm",
+      "Zevit"
+    ],
+    "generic": "Zinc + Multivitamin combination",
+    "category": "Zinc + Vitamin Supplement",
+    "uses": "Zinc deficiency, immunity boosting, wound healing, hair loss, COVID recovery, skin health",
+    "general_guidance": "Take with meals. Zinc is one of the most common deficiencies in India. Important for immunity.",
+    "contraindications": "Zinc toxicity with overdose",
+    "available_forms": [
+      "Tablet",
+      "Capsule",
+      "Syrup"
+    ]
+  },
+  "telekast_l": {
+    "brand_names": [
+      "Telekast-L",
+      "Montair LC",
+      "Levocet M",
+      "Montek LC"
+    ],
+    "generic": "Montelukast + Levocetirizine",
+    "category": "Anti-allergy Combination",
+    "uses": "Allergic rhinitis, chronic urticaria, asthma with allergies \u2014 widely prescribed combination in India",
+    "general_guidance": "Take at night. Effective for both nasal and skin allergies.",
+    "contraindications": "Liver disease",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "rantac": {
+    "brand_names": [
+      "Rantac",
+      "Zinetac",
+      "Aciloc",
+      "Histac",
+      "Ranitidine"
+    ],
+    "generic": "Ranitidine 150mg",
+    "category": "H2 Blocker (Antacid)",
+    "uses": "Acidity, GERD, peptic ulcer, heartburn \u2014 older but widely used antacid in India",
+    "general_guidance": "Take before meals or at bedtime. Less powerful than PPIs but faster acting for symptom relief.",
+    "contraindications": "Kidney disease",
+    "available_forms": [
+      "Tablet",
+      "Syrup",
+      "Injection"
+    ]
+  },
+  "avomine": {
+    "brand_names": [
+      "Avomine",
+      "Phenergan",
+      "Promethazine"
+    ],
+    "generic": "Promethazine",
+    "category": "Antihistamine / Antiemetic",
+    "uses": "Motion sickness, nausea, vomiting, allergies, travel sickness \u2014 very popular before travel in India",
+    "general_guidance": "Take 1-2 hours before travel. Causes significant drowsiness \u2014 do not drive. Very effective for motion sickness.",
+    "contraindications": "Children under 2, respiratory disease, Parkinson's",
+    "available_forms": [
+      "Tablet",
+      "Syrup",
+      "Injection"
+    ]
+  },
+  "lopamide": {
+    "brand_names": [
+      "Lopamide",
+      "Imodium",
+      "Eldoper",
+      "Diasafe",
+      "Loperamide"
+    ],
+    "generic": "Loperamide 2mg",
+    "category": "Antidiarrheal",
+    "uses": "Acute diarrhea, traveller's diarrhea, IBS-related diarrhea \u2014 stops loose motions quickly",
+    "general_guidance": "Take after each loose stool. Do not exceed 8mg/day. Do not use if blood in stool or high fever.",
+    "contraindications": "Bacterial diarrhea with fever, blood in stool, children under 2",
+    "available_forms": [
+      "Tablet",
+      "Capsule",
+      "Syrup"
+    ]
+  },
+  "sorbiline": {
+    "brand_names": [
+      "Sorbiline",
+      "Cremaffin",
+      "Liquid Paraffin",
+      "Duphalac"
+    ],
+    "generic": "Lactulose / Liquid Paraffin",
+    "category": "Laxative",
+    "uses": "Constipation, hard stools, straining during defecation \u2014 gentle laxative for regular use",
+    "general_guidance": "Take at night with water. Works within 24-48 hours. Drink plenty of water. Safe for long-term use.",
+    "contraindications": "Intestinal obstruction, galactosaemia",
+    "available_forms": [
+      "Syrup",
+      "Suspension"
+    ]
+  },
+  "hair4u": {
+    "brand_names": [
+      "Hair4U",
+      "Tugain 5%",
+      "Mintop 5%",
+      "Rogaine 5%"
+    ],
+    "generic": "Minoxidil 5%",
+    "category": "Hair Growth Stimulant",
+    "uses": "Male pattern baldness, hair loss (alopecia) \u2014 topical treatment applied to scalp",
+    "general_guidance": "Apply to dry scalp twice daily. Results visible in 3-6 months. Must continue \u2014 hair loss returns if stopped.",
+    "contraindications": "Scalp infection, pregnancy",
+    "available_forms": [
+      "Topical Solution 5%",
+      "Foam"
+    ]
+  },
+  "candid_b": {
+    "brand_names": [
+      "Candid-B",
+      "Canesten HC",
+      "Clotrimazole-Beclomethasone Cream"
+    ],
+    "generic": "Clotrimazole + Beclomethasone",
+    "category": "Antifungal + Steroid Combination Cream",
+    "uses": "Fungal skin infections with inflammation, ringworm with itching, athlete's foot, jock itch",
+    "general_guidance": "Apply thin layer twice daily. Use for 2-4 weeks. Do not use on face. Do not use long-term \u2014 steroid side effects.",
+    "contraindications": "Face application, broken skin, long-term use",
+    "available_forms": [
+      "Cream"
+    ]
+  },
+  "soframycin": {
+    "brand_names": [
+      "Soframycin",
+      "Framycetin",
+      "Sofra-Tulle"
+    ],
+    "generic": "Framycetin Sulphate",
+    "category": "Topical Antibiotic",
+    "uses": "Minor cuts, wounds, burns, skin infections \u2014 prevents infection in minor injuries",
+    "general_guidance": "Clean wound first. Apply thin layer and cover. Very popular OTC antibiotic cream in India.",
+    "contraindications": "Large wounds, deep burns (use prescription antibiotics)",
+    "available_forms": [
+      "Cream",
+      "Gauze dressing"
+    ]
+  },
+  "boroline": {
+    "brand_names": [
+      "Boroline",
+      "Boroplus",
+      "Petroleum Jelly (Vaseline)"
+    ],
+    "generic": "Boric Acid + Zinc Oxide + Lanolin",
+    "category": "Antiseptic Skin Cream",
+    "uses": "Dry cracked skin, chapped lips, minor skin irritations, antiseptic for minor cuts \u2014 iconic Indian OTC cream",
+    "general_guidance": "Apply to clean skin. Safe for daily use. Iconic Indian household medicine since decades.",
+    "contraindications": "Infected deep wounds",
+    "available_forms": [
+      "Cream"
+    ]
+  },
+  "betnesol": {
+    "brand_names": [
+      "Betnesol",
+      "Betamethasone",
+      "Celestone"
+    ],
+    "generic": "Betamethasone",
+    "category": "Corticosteroid",
+    "uses": "Severe allergic reactions, inflammatory conditions, skin diseases, asthma, autoimmune conditions",
+    "general_guidance": "Prescription only. Take with food. Do not stop abruptly. Short-term use recommended.",
+    "contraindications": "Active infections, diabetes, osteoporosis, stomach ulcers",
+    "available_forms": [
+      "Tablet",
+      "Injection",
+      "Cream",
+      "Eye/Ear Drops"
+    ]
+  },
+  "glycomet_gp": {
+    "brand_names": [
+      "Glycomet GP",
+      "Gluconorm G",
+      "Amaryl M",
+      "Metformin+Glimepiride"
+    ],
+    "generic": "Metformin + Glimepiride",
+    "category": "Antidiabetic Combination",
+    "uses": "Type 2 Diabetes \u2014 dual action combination widely prescribed in India",
+    "general_guidance": "Take with breakfast. Monitor blood sugar. Do not skip doses. Most common diabetes combination in India.",
+    "contraindications": "Kidney disease, liver disease, Type 1 diabetes",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "januvia": {
+    "brand_names": [
+      "Januvia",
+      "Sitagliptin",
+      "Istavel",
+      "Zita"
+    ],
+    "generic": "Sitagliptin",
+    "category": "Antidiabetic (DPP-4 inhibitor)",
+    "uses": "Type 2 Diabetes \u2014 newer class of diabetes medicine, fewer side effects than older drugs",
+    "general_guidance": "Take with or without food. Low risk of hypoglycemia. Prescription required.",
+    "contraindications": "Kidney disease (dose adjustment), Type 1 diabetes",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "telma_am": {
+    "brand_names": [
+      "Telma AM",
+      "Telmikind AM",
+      "Telsartan AM"
+    ],
+    "generic": "Telmisartan + Amlodipine",
+    "category": "ARB + Calcium Channel Blocker (BP combination)",
+    "uses": "Hypertension (high blood pressure) \u2014 very popular combination for BP in India",
+    "general_guidance": "Take once daily. One of the most prescribed BP combinations in India. Do not stop without doctor advice.",
+    "contraindications": "Pregnancy, liver disease, severe hypotension",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "ecosprin_av": {
+    "brand_names": [
+      "Ecosprin AV 75",
+      "Ecosprin Gold",
+      "Cardace AM"
+    ],
+    "generic": "Aspirin 75mg + Atorvastatin",
+    "category": "Antiplatelet + Statin Combination",
+    "uses": "Prevention of heart attack and stroke, post-angioplasty care, high cardiovascular risk \u2014 very common cardiac combination",
+    "general_guidance": "Take after dinner. Lifelong medication for most heart patients. Do not stop without cardiologist advice.",
+    "contraindications": "Active bleeding, peptic ulcer, dengue fever",
+    "available_forms": [
+      "Tablet (enteric coated)"
+    ]
+  },
+  "telma_h": {
+    "brand_names": [
+      "Telma H",
+      "Telmikind H",
+      "Micardis HCT"
+    ],
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "category": "ARB + Diuretic Combination",
+    "uses": "Hypertension \u2014 BP medicine with diuretic for better control",
+    "general_guidance": "Take in the morning. May increase urination. Monitor potassium and kidney function.",
+    "contraindications": "Pregnancy, gout, severe kidney disease",
+    "available_forms": [
+      "Tablet"
+    ]
+  },
+  "azithral_500": {
+    "brand_names": [
+      "Azithral 500",
+      "Azee 500",
+      "Zithromax 500",
+      "Azicip 500"
+    ],
+    "generic": "Azithromycin 500mg",
+    "category": "Antibiotic (Macrolide)",
+    "uses": "Respiratory infections, typhoid, COVID-19 treatment protocols, skin infections, STIs \u2014 most popular antibiotic in India",
+    "general_guidance": "Usually 3-5 day course. Take on empty stomach or with food. Very commonly prescribed in India.",
+    "contraindications": "Liver disease, heart rhythm problems",
+    "available_forms": [
+      "Tablet",
+      "Capsule",
+      "Suspension"
+    ]
+  },
+  "calpol_500": {
+    "brand_names": [
+      "Calpol 500",
+      "Calpol Paediatric",
+      "Calpol Syrup"
+    ],
+    "generic": "Paracetamol 500mg",
+    "category": "Analgesic / Antipyretic",
+    "uses": "Fever and pain in children and adults \u2014 trusted brand for paediatric fever in India",
+    "general_guidance": "Safe for children. Dose based on weight for children. Widely available OTC.",
+    "contraindications": "Liver disease",
+    "available_forms": [
+      "Tablet",
+      "Syrup",
+      "Suspension"
+    ]
+  },
+  "spasmo_proxyvon": {
+    "brand_names": [
+      "Spasmo-Proxyvon",
+      "Spasmo Proxyvon Plus"
+    ],
+    "generic": "Dicyclomine + Paracetamol + Tramadol",
+    "category": "Antispasmodic + Analgesic",
+    "uses": "Severe abdominal cramps, renal colic, biliary colic \u2014 strong pain and spasm relief",
+    "general_guidance": "Prescription required. May cause drowsiness. Do not drive. Tramadol component \u2014 do not use long-term.",
+    "contraindications": "Glaucoma, prostate problems, addiction history",
+    "available_forms": [
+      "Capsule"
+    ]
+  },
+  "volini": {
+    "brand_names": [
+      "Volini",
+      "Moov",
+      "Relispray",
+      "Omnigel Spray"
+    ],
+    "generic": "Diclofenac + Methyl Salicylate + Menthol (Topical)",
+    "category": "Topical Analgesic Spray/Gel",
+    "uses": "Muscle pain, joint pain, sports injuries, back pain, neck pain \u2014 applied directly on pain area",
+    "general_guidance": "Spray or apply on affected area. Massage gently. Very popular OTC pain spray in India.",
+    "contraindications": "Broken skin, eyes, children under 12",
+    "available_forms": [
+      "Spray",
+      "Gel"
+    ]
+  },
+  "otrivin": {
+    "brand_names": [
+      "Otrivin",
+      "Nasivion",
+      "Sinarest Nasal",
+      "Xylometazoline Nasal"
+    ],
+    "generic": "Xylometazoline Nasal Spray 0.1%",
+    "category": "Nasal Decongestant",
+    "uses": "Blocked/stuffy nose from cold, sinusitis, allergic rhinitis \u2014 provides instant nasal relief",
+    "general_guidance": "Do NOT use for more than 3-5 days \u2014 causes rebound congestion. 1-2 sprays per nostril. Very effective short-term.",
+    "contraindications": "Hypertension, hyperthyroidism, do not use more than 5 days",
+    "available_forms": [
+      "Nasal Spray",
+      "Nasal Drops"
+    ]
+  },
+  "o2": {
+    "brand_names": [
+      "O2",
+      "Oflox",
+      "Zanocin",
+      "Tarivid"
+    ],
+    "generic": "Ofloxacin",
+    "category": "Antibiotic (Fluoroquinolone)",
+    "uses": "UTI, respiratory infections, skin infections, conjunctivitis (eye drops), ear infections",
+    "general_guidance": "Prescription required. Take on empty stomach. Common alternative to Ciprofloxacin.",
+    "contraindications": "Children under 18 (except eye/ear drops), pregnancy, epilepsy",
+    "available_forms": [
+      "Tablet",
+      "Eye Drops",
+      "Ear Drops",
+      "Injection"
+    ]
+  },
+  "acutret": {
+    "brand_names": [
+      "Acutret",
+      "Acutret 5mg",
+      "Acutret 10mg",
+      "Isotretinoin",
+      "Oratane",
+      "Roaccutane",
+      "Sotret"
+    ],
+    "generic": "Isotretinoin",
+    "category": "Retinoid / Anti-acne (Oral)",
+    "uses": "Severe nodular/cystic acne, acne that hasn't responded to other treatments \u2014 most powerful acne medicine",
+    "general_guidance": "Take with fatty meal for best absorption. Causes extreme dryness of skin, lips, eyes. Must avoid pregnancy \u2014 use contraception. Monthly blood tests required. PRESCRIPTION ONLY.",
+    "contraindications": "Pregnancy (severe birth defects), breastfeeding, liver disease, high triglycerides",
+    "available_forms": [
+      "Capsule",
+      "Tablet"
+    ]
+  },
+  "momate": {
+    "brand_names": [
+      "Momate",
+      "Momate Cream",
+      "Elocon",
+      "Mometasone Cream",
+      "Momesoft"
+    ],
+    "generic": "Mometasone Furoate",
+    "category": "Topical Corticosteroid",
+    "uses": "Skin inflammation, eczema, psoriasis, dermatitis, dark patches (melasma when combined), itching",
+    "general_guidance": "Apply thin layer once daily. Do not use on face for long periods. Prescription required. Do not use more than 2 weeks on sensitive skin.",
+    "contraindications": "Infected skin, rosacea, acne, prolonged face use",
+    "available_forms": [
+      "Cream",
+      "Ointment",
+      "Lotion",
+      "Nasal Spray"
+    ]
+  },
+  "cligel_a": {
+    "brand_names": [
+      "Cligel A",
+      "Clindamycin + Adapalene Gel",
+      "Deriva CMS",
+      "Clindaget A"
+    ],
+    "generic": "Clindamycin + Adapalene",
+    "category": "Topical Antibiotic + Retinoid (Anti-acne)",
+    "uses": "Acne vulgaris (pimples), blackheads, whiteheads \u2014 dual action kills bacteria and unclogs pores",
+    "general_guidance": "Apply pea-sized amount on clean dry face at night. Start 2-3 times/week, then daily. Avoid sun exposure. Use sunscreen in morning.",
+    "contraindications": "Pregnancy, broken skin, sunburn",
+    "available_forms": [
+      "Gel",
+      "Cream"
+    ]
+  },
+  "eberfine_m": {
+    "brand_names": [
+      "Eberfine-M",
+      "Eberconazole + Miconazole Cream"
+    ],
+    "generic": "Eberconazole + Miconazole (Antifungal combination)",
+    "category": "Topical Antifungal",
+    "uses": "Fungal infections of skin and nose area, tinea, candidiasis, ringworm",
+    "general_guidance": "Apply thin layer to affected area. Complete full course even if symptoms improve.",
+    "contraindications": "Hypersensitivity to azole antifungals",
+    "available_forms": [
+      "Cream"
+    ]
+  },
+  "vitamin_c_capsule": {
+    "brand_names": [
+      "C Vit",
+      "Celin",
+      "Limcee",
+      "Vitamin C Capsule",
+      "Ester-C",
+      "Askor"
+    ],
+    "generic": "Ascorbic Acid (Vitamin C)",
+    "category": "Vitamin Supplement / Antioxidant",
+    "uses": "Vitamin C deficiency, immunity boosting, skin health, collagen synthesis, wound healing, antioxidant",
+    "general_guidance": "Take after food. Water-soluble \u2014 excess is excreted safely. Commonly prescribed for skin health and immunity.",
+    "contraindications": "Kidney stones (high doses), haemochromatosis",
+    "available_forms": [
+      "Tablet",
+      "Capsule",
+      "Effervescent",
+      "Chewable Tablet"
+    ]
+  },
+  "mupact": {
+    "brand_names": [
+      "Mupact",
+      "Mupirocin Ointment",
+      "Bactroban",
+      "Neosporin"
+    ],
+    "generic": "Mupirocin",
+    "category": "Topical Antibiotic Ointment",
+    "uses": "Bacterial skin infections, impetigo, infected wounds, nasal MRSA decolonisation \u2014 very effective topical antibiotic",
+    "general_guidance": "Apply thin layer 3 times daily for 5-10 days. Do not use inside nose for more than 5 days. Do not use long-term.",
+    "contraindications": "Prolonged use (resistance), large open wounds",
+    "available_forms": [
+      "Ointment",
+      "Cream",
+      "Nasal Ointment"
+    ]
+  },
+  "triclear_foam": {
+    "brand_names": [
+      "Triclear Foam",
+      "Foaming Face Wash",
+      "Salicylic Acid Foam Wash"
+    ],
+    "generic": "Salicylic Acid + Glycolic Acid Foaming Cleanser",
+    "category": "Medicated Skin Cleanser",
+    "uses": "Acne-prone skin cleansing, removes excess oil, unclogs pores, reduces blackheads",
+    "general_guidance": "Use as face wash morning and night. Rinse thoroughly. Follow with moisturiser. Avoid contact with eyes.",
+    "contraindications": "Dry or sensitive skin (may worsen dryness)",
+    "available_forms": [
+      "Foam/Liquid Wash"
+    ]
+  },
+  "scarend_silicone": {
+    "brand_names": [
+      "Scarend Silicone Gel",
+      "Scar Gel",
+      "Kelo-cote",
+      "Silgel",
+      "Dermatix"
+    ],
+    "generic": "Silicone Gel for Scars",
+    "category": "Scar Treatment (Silicone)",
+    "uses": "Reducing acne scars, surgical scars, keloids, hypertrophic scars \u2014 flattens and fades scars",
+    "general_guidance": "Apply thin layer on clean scar twice daily. Massage gently. Use consistently for 3-6 months for best results.",
+    "contraindications": "Open wounds, infected skin",
+    "available_forms": [
+      "Gel",
+      "Sheet"
+    ]
+  },
+  "uv_doux": {
+    "brand_names": [
+      "UV Doux Gel",
+      "UV Doux Sunscreen",
+      "Sunscreen SPF 50+"
+    ],
+    "generic": "Sunscreen (SPF 50+ / PA+++) Gel",
+    "category": "Sunscreen / Photoprotection",
+    "uses": "Sun protection, prevents UV damage, prevents tanning, post-acne skin protection, prevents dark spots",
+    "general_guidance": "Apply generously 20 minutes before sun exposure. Reapply every 2-3 hours outdoors. Essential after acne treatment.",
+    "contraindications": "None significant",
+    "available_forms": [
+      "Gel",
+      "Cream",
+      "Lotion"
+    ]
+  },
+  "skinoperf": {
+    "brand_names": [
+      "Skinoperf",
+      "Skinperf",
+      "Niacinamide Serum",
+      "Skin Serum"
+    ],
+    "generic": "Niacinamide + Skin Brightening Serum",
+    "category": "Topical Skin Serum",
+    "uses": "Skin brightening, reducing dark spots, open pores, oily skin control, post-acne marks",
+    "general_guidance": "Apply few drops to clean face at night. Use before moisturiser. Give 6-8 weeks to see results.",
+    "contraindications": "Sensitivity to niacinamide",
+    "available_forms": [
+      "Serum"
+    ]
+  },
+  "acne_lotion": {
+    "brand_names": [
+      "Acne Lode",
+      "Clindamycin Lotion",
+      "Clindac A Lotion",
+      "Acnemoist"
+    ],
+    "generic": "Clindamycin Lotion (Topical Antibiotic)",
+    "category": "Topical Antibiotic Lotion",
+    "uses": "Acne vulgaris, pimples, blackheads \u2014 kills acne-causing bacteria (P. acnes)",
+    "general_guidance": "Apply to affected area after cleansing. Use morning or night as directed. Do not apply to broken skin.",
+    "contraindications": "Colitis history, allergy to clindamycin",
+    "available_forms": [
+      "Lotion",
+      "Gel",
+      "Solution"
+    ]
+  },
+  "hydronic_moisturizer": {
+    "brand_names": [
+      "Hydronic Moisturizing Cream",
+      "Hydronic Cream",
+      "Moisturizing Cream"
+    ],
+    "generic": "Hydrating Moisturiser (Ceramide/Hyaluronic Acid base)",
+    "category": "Topical Moisturiser / Emollient",
+    "uses": "Dry skin, post-treatment skin hydration, barrier repair, skin softening after acne/retinoid treatment",
+    "general_guidance": "Apply at night on clean face. Use after serums. Helps repair skin barrier damaged by acne treatments like Acutret.",
+    "contraindications": "None significant for topical use",
+    "available_forms": [
+      "Cream"
+    ]
+  },
+  "acne_lode": {
+    "brand_names": [
+      "Acne Lode",
+      "Acne Lotion",
+      "Clindamycin Topical",
+      "Clindac A"
+    ],
+    "generic": "Clindamycin Topical Lotion",
+    "category": "Topical Antibiotic (Anti-acne)",
+    "uses": "Acne vulgaris, pimples, whiteheads, comedones \u2014 kills P. acnes bacteria on skin surface",
+    "general_guidance": "Apply to clean face at night on affected areas. Use consistently. Avoid near eyes and mouth.",
+    "contraindications": "Colitis history, allergy to clindamycin",
+    "available_forms": [
+      "Lotion",
+      "Gel",
+      "Solution"
+    ]
+  }
+}

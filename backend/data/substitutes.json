@@ -1,0 +1,788 @@
+{
+  "brand_to_generic": {
+    "crocin": "paracetamol",
+    "dolo": "dolo_650",
+    "dolo 650": "dolo_650",
+    "dolo650": "dolo_650",
+    "calpol": "calpol_500",
+    "pyrigesic": "paracetamol",
+    "tylenol": "paracetamol",
+    "metacin": "paracetamol",
+    "panadol": "paracetamol",
+    "brufen": "ibuprofen",
+    "combiflam": "combiflam",
+    "advil": "ibuprofen",
+    "nurofen": "ibuprofen",
+    "ibugesic": "ibuprofen",
+    "medofen": "ibuprofen",
+    "cetzine": "cetirizine",
+    "alerid": "cetirizine",
+    "okacet": "cetirizine",
+    "zyrtec": "cetirizine",
+    "histazine": "cetirizine",
+    "zyncet": "cetirizine",
+    "levocet": "levocetirizine",
+    "xyzal": "levocetirizine",
+    "l-cet": "levocetirizine",
+    "lecope": "levocetirizine",
+    "allegra": "fexofenadine",
+    "fexo": "fexofenadine",
+    "telfast": "fexofenadine",
+    "omez": "omeprazole",
+    "ocid": "omeprazole",
+    "prilosec": "omeprazole",
+    "losec": "omeprazole",
+    "lomac": "omeprazole",
+    "pan 40": "pantoprazole",
+    "pan40": "pantoprazole",
+    "pantocid": "pantoprazole",
+    "pantop": "pantoprazole",
+    "nexpro": "pantoprazole",
+    "razo": "rabeprazole",
+    "rablet": "rabeprazole",
+    "rabeloc": "rabeprazole",
+    "azithral": "azithromycin",
+    "azee": "azithromycin",
+    "azicip": "azithromycin",
+    "zithromax": "azithromycin",
+    "trulimax": "azithromycin",
+    "mox": "amoxicillin",
+    "amoxil": "amoxicillin",
+    "novamox": "amoxicillin",
+    "cipmox": "amoxicillin",
+    "augmentin": "amoxicillin+clavulanate",
+    "clavam": "amoxicillin+clavulanate",
+    "enhancin": "amoxicillin+clavulanate",
+    "moxclav": "amoxicillin+clavulanate",
+    "ciplox": "ciprofloxacin",
+    "cifran": "ciprofloxacin",
+    "ciprolet": "ciprofloxacin",
+    "ciprobid": "ciprofloxacin",
+    "flagyl": "metronidazole",
+    "metrogyl": "metronidazole",
+    "metron": "metronidazole",
+    "doxt-sl": "doxycycline",
+    "doxy-1": "doxycycline",
+    "vibramycin": "doxycycline",
+    "glycomet": "metformin",
+    "glucophage": "metformin",
+    "obimet": "metformin",
+    "cetapin": "metformin",
+    "amaryl": "glimepiride",
+    "glimer": "glimepiride",
+    "glimpid": "glimepiride",
+    "atorva": "atorvastatin",
+    "lipitor": "atorvastatin",
+    "storvas": "atorvastatin",
+    "tonact": "atorvastatin",
+    "crestor": "rosuvastatin",
+    "rozavel": "rosuvastatin",
+    "rosutor": "rosuvastatin",
+    "voveran": "diclofenac",
+    "voltaren": "diclofenac",
+    "diclogesic": "diclofenac",
+    "dynapar": "diclofenac",
+    "diclomol": "diclofenac",
+    "naprosyn": "naproxen",
+    "aleve": "naproxen",
+    "emeset": "ondansetron",
+    "zofran": "ondansetron",
+    "ondem": "ondansetron",
+    "vomiset": "ondansetron",
+    "domstal": "domperidone",
+    "motilium": "domperidone",
+    "vomistop": "domperidone",
+    "imodium": "loperamide",
+    "lopamide": "lopamide",
+    "eldoper": "lopamide",
+    "diasafe": "lopamide",
+    "zinetac": "ranitidine",
+    "rantac": "rantac",
+    "aciloc": "rantac",
+    "histac": "ranitidine",
+    "montair": "montelukast",
+    "singulair": "montelukast",
+    "romilast": "montelukast",
+    "telekast": "montelukast",
+    "asthalin": "salbutamol",
+    "ventolin": "salbutamol",
+    "salbair": "salbutamol",
+    "disprin": "aspirin",
+    "ecosprin": "aspirin",
+    "loprin": "aspirin",
+    "cardiopirin": "aspirin",
+    "clopilet": "clopidogrel",
+    "plavix": "clopidogrel",
+    "plagril": "clopidogrel",
+    "deplatt": "clopidogrel",
+    "amlokind": "amlodipine",
+    "amlong": "amlodipine",
+    "norvasc": "amlodipine",
+    "stamlo": "amlodipine",
+    "enam": "enalapril",
+    "encardil": "enalapril",
+    "envas": "enalapril",
+    "losartas": "losartan",
+    "cozaar": "losartan",
+    "losacar": "losartan",
+    "telma": "telmisartan",
+    "telmikind": "telmisartan",
+    "micardis": "telmisartan",
+    "inderal": "propranolol",
+    "ciplar": "propranolol",
+    "betacap": "propranolol",
+    "metolar": "metoprolol",
+    "betaloc": "metoprolol",
+    "seloken": "metoprolol",
+    "met xl": "metoprolol",
+    "wysolone": "prednisolone",
+    "hostacortin": "prednisolone",
+    "plaquenil": "hydroxychloroquine",
+    "hcqs": "hydroxychloroquine",
+    "thyronorm": "levothyroxine",
+    "eltroxin": "levothyroxine",
+    "synthroid": "levothyroxine",
+    "nexito": "escitalopram",
+    "stalopam": "escitalopram",
+    "cipralex": "escitalopram",
+    "rexipra": "escitalopram",
+    "zoloft": "sertraline",
+    "serta": "sertraline",
+    "daxid": "sertraline",
+    "alprax": "alprazolam",
+    "restyl": "alprazolam",
+    "xanax": "alprazolam",
+    "rivotril": "clonazepam",
+    "clonapax": "clonazepam",
+    "zapiz": "clonazepam",
+    "lonazep": "clonazepam",
+    "lyrica": "pregabalin",
+    "pregeb": "pregabalin",
+    "gabapin": "gabapentin",
+    "neurontin": "gabapentin",
+    "gabantin": "gabapentin",
+    "urimax": "tamsulosin",
+    "flomax": "tamsulosin",
+    "veltam": "tamsulosin",
+    "viagra": "sildenafil",
+    "penegra": "sildenafil",
+    "manforce": "sildenafil",
+    "suhagra": "sildenafil",
+    "candid": "clotrimazole",
+    "canesten": "clotrimazole",
+    "zovirax": "acyclovir",
+    "acivir": "acyclovir",
+    "herpex": "acyclovir",
+    "terbicip": "terbinafine",
+    "lamisil": "terbinafine",
+    "flucos": "fluconazole",
+    "forcan": "fluconazole",
+    "zocon": "fluconazole",
+    "diflucan": "fluconazole",
+    "duphalac": "lactulose",
+    "portalac": "lactulose",
+    "electral": "ors_electral",
+    "enerzal": "ors_electral",
+    "pedialyte": "oral rehydration salts",
+    "enterogermina": "probiotics",
+    "vizylac": "probiotics",
+    "bifilac": "sporlac",
+    "cyclopam": "meftal_spas",
+    "colimex": "dicyclomine",
+    "meftal": "mefenamic acid",
+    "meftal spas": "meftal_spas",
+    "ponstan": "mefenamic acid",
+    "gelusil": "digene",
+    "digene": "digene",
+    "sinarest": "cheston_cold",
+    "cheston cold": "cheston_cold",
+    "d-cold total": "d_cold",
+    "strepsils": "amylmetacresol+dichlorobenzyl alcohol",
+    "cofsils": "amylmetacresol+dichlorobenzyl alcohol",
+    "norflox": "norfloxacin",
+    "norflox-tz": "norflox_tz",
+    "ciplox-tz": "norflox_tz",
+    "flexon": "combiflam",
+    "shelcal": "calcium+vitamin d3",
+    "calcimax": "calcium+vitamin d3",
+    "calcirol": "vitamin d3",
+    "arachitol": "vitamin d3",
+    "uprise-d3": "vitamin d3",
+    "neurobion": "vitamin b12+b complex",
+    "cobadex": "vitamin b12",
+    "nurokind": "methylcobalamin",
+    "becosules": "vitamin b complex",
+    "supradyn": "multivitamin",
+    "revital": "revital",
+    "centrum": "multivitamin",
+    "haemup": "ferrous sulphate+folic acid",
+    "fefol": "ferrous sulphate+folic acid",
+    "autrin": "ferrous sulphate+folic acid",
+    "tugain": "minoxidil",
+    "mintop": "minoxidil",
+    "rogaine": "minoxidil",
+    "nizoral": "ketoconazole",
+    "stugeron": "cinnarizine",
+    "cinaron": "cinnarizine",
+    "vertin": "betahistine",
+    "betaserc": "betahistine",
+    "atarax": "hydroxyzine",
+    "ucerax": "hydroxyzine",
+    "isabgol": "psyllium husk",
+    "dulcolax": "bisacodyl",
+    "hmbb": "hmbb",
+    "gas-o-fast": "simethicone",
+    "colimax": "simethicone",
+    "vomilast": "doxylamine_pyridoxine",
+    "vomiford": "domperidone",
+    "vomikind": "domperidone",
+    "zoclar": "clarithromycin",
+    "claribid": "clarithromycin",
+    "klaricid": "clarithromycin",
+    "clariwin": "clarithromycin",
+    "biaxin": "clarithromycin",
+    "gestakind": "isoxsuprine",
+    "duvadilan": "isoxsuprine",
+    "vasodilan": "isoxsuprine",
+    "abciximab": "abciximab",
+    "reopro": "abciximab",
+    "doxinate": "doxylamine_pyridoxine",
+    "diclegis": "doxylamine_pyridoxine",
+    "ibugesic plus": "combiflam",
+    "pan-d": "pan_d",
+    "pan d": "pan_d",
+    "pantop-d": "pantop_d",
+    "nexpro-d": "pan_d",
+    "benadryl": "benadryl",
+    "ascoril": "ascoril",
+    "ascoril ls": "ascoril",
+    "meftal-spas": "meftal_spas",
+    "allegra 120": "allegra_120",
+    "allegra 180": "allegra_120",
+    "fexo 120": "allegra_120",
+    "montair lc": "montair_lc",
+    "levocet m": "montair_lc",
+    "montek lc": "montair_lc",
+    "taxim-o": "taxim_o",
+    "cefolac": "taxim_o",
+    "cefspan": "taxim_o",
+    "zifi": "taxim_o",
+    "augmentin 625": "augmentin_625",
+    "clavam 625": "augmentin_625",
+    "zerodol-p": "zerodol_p",
+    "zerodol p": "zerodol_p",
+    "hifenac p": "zerodol_p",
+    "zerodol": "aceclofenac",
+    "hifenac": "aceclofenac",
+    "dolowin": "aceclofenac",
+    "voveran gel": "voveran_gel",
+    "volini gel": "voveran_gel",
+    "moov": "moov",
+    "volini": "volini",
+    "iodex": "moov",
+    "eno": "digene",
+    "pudin hara": "pudin_hara",
+    "pudinhara": "pudin_hara",
+    "liv-52": "liv_52",
+    "liv 52": "liv_52",
+    "revital h": "revital",
+    "d-cold": "d_cold",
+    "d cold": "d_cold",
+    "coldarin": "d_cold",
+    "norflox tz": "norflox_tz",
+    "sporlac": "sporlac",
+    "zincovit": "zincovit",
+    "zevit": "zincovit",
+    "telekast-l": "telekast_l",
+    "telekast l": "telekast_l",
+    "avomine": "avomine",
+    "phenergan": "avomine",
+    "sorbiline": "sorbiline",
+    "cremaffin": "sorbiline",
+    "hair4u": "hair4u",
+    "tugain 5%": "hair4u",
+    "mintop 5%": "hair4u",
+    "candid-b": "candid_b",
+    "candid b": "candid_b",
+    "soframycin": "soframycin",
+    "framycetin": "soframycin",
+    "boroline": "boroline",
+    "boroplus": "boroline",
+    "betnesol": "betnesol",
+    "glycomet gp": "glycomet_gp",
+    "glycomet-gp": "glycomet_gp",
+    "amaryl m": "glycomet_gp",
+    "januvia": "januvia",
+    "istavel": "januvia",
+    "telma am": "telma_am",
+    "telmikind am": "telma_am",
+    "ecosprin av": "ecosprin_av",
+    "ecosprin av 75": "ecosprin_av",
+    "telma h": "telma_h",
+    "telmikind h": "telma_h",
+    "azithral 500": "azithral_500",
+    "azee 500": "azithral_500",
+    "calpol 500": "calpol_500",
+    "spasmo-proxyvon": "spasmo_proxyvon",
+    "spasmo proxyvon": "spasmo_proxyvon",
+    "otrivin": "otrivin",
+    "nasivion": "otrivin",
+    "oflox": "o2",
+    "zanocin": "o2",
+    "acutret": "acutret",
+    "acutret 5mg": "acutret",
+    "sotret": "acutret",
+    "roaccutane": "acutret",
+    "momate": "momate",
+    "elocon": "momate",
+    "mometasone": "momate",
+    "cligel a": "cligel_a",
+    "cligel-a": "cligel_a",
+    "deriva cms": "cligel_a",
+    "eberfine-m": "eberfine_m",
+    "eberfine m": "eberfine_m",
+    "c vit": "vitamin_c_capsule",
+    "celin": "vitamin_c_capsule",
+    "limcee": "vitamin_c_capsule",
+    "mupact": "mupact",
+    "bactroban": "mupact",
+    "mupirocin": "mupact",
+    "triclear": "triclear_foam",
+    "foam triclear": "triclear_foam",
+    "scarend": "scarend_silicone",
+    "gel scarend": "scarend_silicone",
+    "kelo-cote": "scarend_silicone",
+    "uv doux": "uv_doux",
+    "gel uv doux": "uv_doux",
+    "skinoperf": "skinoperf",
+    "serum skinoperf": "skinoperf",
+    "acne lode": "acne_lode",
+    "cream acne lode": "acne_lotion",
+    "hydronic": "hydronic_moisturizer",
+    "hydronic moisturizing": "hydronic_moisturizer",
+    "hydronic cream": "hydronic_moisturizer",
+    "cream hydronic": "hydronic_moisturizer",
+    "acne lotion": "acne_lode"
+  },
+  "generic_substitutes": {
+    "paracetamol": {
+      "brands": [
+        "Dolo 650",
+        "Calpol 500",
+        "Crocin Advance",
+        "Pyrigesic 500",
+        "Metacin"
+      ],
+      "note": "All contain Paracetamol. Available OTC everywhere."
+    },
+    "ibuprofen": {
+      "brands": [
+        "Brufen 400",
+        "Combiflam",
+        "Ibugesic Plus",
+        "Medofen 400"
+      ],
+      "note": "NSAIDs \u2014 always take with food."
+    },
+    "ibuprofen+paracetamol": {
+      "brands": [
+        "Combiflam",
+        "Flexon",
+        "Ibugesic Plus",
+        "Brufen Plus"
+      ],
+      "note": "Combination for pain and fever. Take with food."
+    },
+    "cetirizine": {
+      "brands": [
+        "Cetzine 10mg",
+        "Alerid 10mg",
+        "Okacet 10mg",
+        "Histazine"
+      ],
+      "note": "2nd generation antihistamine. May cause mild drowsiness."
+    },
+    "levocetirizine": {
+      "brands": [
+        "Levocet 5mg",
+        "Xyzal 5mg",
+        "Lezyncet 5mg",
+        "L-Cet"
+      ],
+      "note": "Stronger than cetirizine with less drowsiness."
+    },
+    "fexofenadine": {
+      "brands": [
+        "Allegra 120mg",
+        "Fexo 120mg",
+        "Telfast 120mg"
+      ],
+      "note": "Non-drowsy antihistamine. Ideal for daytime."
+    },
+    "omeprazole": {
+      "brands": [
+        "Omez 20mg",
+        "Ocid 20mg",
+        "Omesec 20mg",
+        "Lomac 20mg"
+      ],
+      "note": "PPI for acidity. Take before meals."
+    },
+    "pantoprazole": {
+      "brands": [
+        "Pan 40",
+        "Pantocid 40mg",
+        "Pantop 40mg",
+        "Nexpro 40mg"
+      ],
+      "note": "PPI \u2014 similar to omeprazole, fewer drug interactions."
+    },
+    "rabeprazole": {
+      "brands": [
+        "Razo 20mg",
+        "Rablet 20mg",
+        "Rabeloc 20mg"
+      ],
+      "note": "Faster acting PPI."
+    },
+    "azithromycin": {
+      "brands": [
+        "Azithral 500mg",
+        "Azee 500mg",
+        "Azicip 500mg",
+        "Trulimax 500mg"
+      ],
+      "note": "Prescription antibiotic. Complete full course."
+    },
+    "amoxicillin": {
+      "brands": [
+        "Mox 500mg",
+        "Novamox 500mg",
+        "Amoxil 500mg",
+        "Cipmox 500mg"
+      ],
+      "note": "Prescription antibiotic. Complete full course."
+    },
+    "amoxicillin+clavulanate": {
+      "brands": [
+        "Augmentin 625mg",
+        "Clavam 625mg",
+        "Enhancin 625mg",
+        "Moxclav 625mg"
+      ],
+      "note": "Stronger antibiotic combination. Prescription required."
+    },
+    "ciprofloxacin": {
+      "brands": [
+        "Ciplox 500mg",
+        "Cifran 500mg",
+        "Ciprolet 500mg"
+      ],
+      "note": "Fluoroquinolone antibiotic. Prescription required."
+    },
+    "metronidazole": {
+      "brands": [
+        "Flagyl 400mg",
+        "Metrogyl 400mg",
+        "Metron 400mg"
+      ],
+      "note": "Avoid all alcohol during treatment."
+    },
+    "metformin": {
+      "brands": [
+        "Glycomet 500mg",
+        "Glucophage 500mg",
+        "Obimet 500mg",
+        "Cetapin 500mg"
+      ],
+      "note": "Prescription antidiabetic. Take with meals."
+    },
+    "atorvastatin": {
+      "brands": [
+        "Atorva 10mg",
+        "Storvas 10mg",
+        "Tonact 10mg",
+        "Atorlip 10mg"
+      ],
+      "note": "Statin for cholesterol. Report unexplained muscle pain."
+    },
+    "rosuvastatin": {
+      "brands": [
+        "Crestor 10mg",
+        "Rozavel 10mg",
+        "Rosutor 10mg",
+        "Rosulip 10mg"
+      ],
+      "note": "More potent statin alternative to atorvastatin."
+    },
+    "diclofenac": {
+      "brands": [
+        "Voveran 50mg",
+        "Voltaren 50mg",
+        "Dynapar 50mg",
+        "Diclomol 50mg"
+      ],
+      "note": "Anti-inflammatory. Gel form available with fewer side effects."
+    },
+    "ondansetron": {
+      "brands": [
+        "Emeset 4mg",
+        "Ondem 4mg",
+        "Vomiset 4mg",
+        "Zofran 4mg"
+      ],
+      "note": "For nausea/vomiting. Available as dissolving tablet."
+    },
+    "loperamide": {
+      "brands": [
+        "Imodium 2mg",
+        "Lopamide 2mg",
+        "Eldoper 2mg",
+        "Diasafe 2mg"
+      ],
+      "note": "For diarrhea. Do not use with fever or blood in stool."
+    },
+    "ranitidine": {
+      "brands": [
+        "Zinetac 150mg",
+        "Rantac 150mg",
+        "Aciloc 150mg",
+        "Histac 150mg"
+      ],
+      "note": "H2 blocker for acidity \u2014 less potent than PPIs."
+    },
+    "montelukast": {
+      "brands": [
+        "Montair 10mg",
+        "Romilast 10mg",
+        "Telekast 10mg",
+        "Montemac 10mg"
+      ],
+      "note": "For asthma and allergies. Take at night."
+    },
+    "salbutamol": {
+      "brands": [
+        "Asthalin Inhaler",
+        "Ventolin Inhaler",
+        "Salbair Inhaler"
+      ],
+      "note": "Rescue bronchodilator inhaler for asthma attacks."
+    },
+    "aspirin": {
+      "brands": [
+        "Disprin 300mg",
+        "Ecosprin 75mg (low dose)",
+        "Aspro 300mg"
+      ],
+      "note": "75mg for heart protection. Do NOT use in dengue."
+    },
+    "clopidogrel": {
+      "brands": [
+        "Clopilet 75mg",
+        "Plagril 75mg",
+        "Deplatt 75mg"
+      ],
+      "note": "Antiplatelet. Do not stop without doctor advice."
+    },
+    "amlodipine": {
+      "brands": [
+        "Amlokind 5mg",
+        "Amlong 5mg",
+        "Norvasc 5mg",
+        "Stamlo 5mg"
+      ],
+      "note": "Calcium channel blocker for blood pressure."
+    },
+    "losartan": {
+      "brands": [
+        "Losartas 50mg",
+        "Losacar 50mg",
+        "Covance 50mg"
+      ],
+      "note": "ARB for blood pressure \u2014 no cough unlike ACE inhibitors."
+    },
+    "telmisartan": {
+      "brands": [
+        "Telma 40mg",
+        "Telmikind 40mg",
+        "Micardis 40mg"
+      ],
+      "note": "Long-acting ARB for hypertension."
+    },
+    "levothyroxine": {
+      "brands": [
+        "Thyronorm 50mcg",
+        "Eltroxin 50mcg",
+        "Levothyrox 50mcg"
+      ],
+      "note": "Thyroid hormone replacement. Take on empty stomach."
+    },
+    "escitalopram": {
+      "brands": [
+        "Nexito 10mg",
+        "Stalopam 10mg",
+        "Cipralex 10mg",
+        "Rexipra 10mg"
+      ],
+      "note": "Antidepressant. Takes 2-4 weeks for full effect."
+    },
+    "sertraline": {
+      "brands": [
+        "Serta 50mg",
+        "Daxid 50mg",
+        "Serline 50mg"
+      ],
+      "note": "SSRI antidepressant. Complete course as prescribed."
+    },
+    "clotrimazole": {
+      "brands": [
+        "Candid Cream",
+        "Canesten Cream",
+        "Fungicip Cream"
+      ],
+      "note": "Antifungal cream. Apply twice daily."
+    },
+    "fluconazole": {
+      "brands": [
+        "Flucos 150mg",
+        "Forcan 150mg",
+        "Zocon 150mg"
+      ],
+      "note": "Oral antifungal. Single dose for vaginal thrush."
+    },
+    "terbinafine": {
+      "brands": [
+        "Terbicip 250mg",
+        "Lamisil 250mg",
+        "Fungotek 250mg"
+      ],
+      "note": "Best for nail fungal infections."
+    },
+    "acyclovir": {
+      "brands": [
+        "Acivir 400mg",
+        "Herpex 400mg",
+        "Zovirax 400mg"
+      ],
+      "note": "For herpes/chickenpox. Start as early as possible."
+    },
+    "cinnarizine": {
+      "brands": [
+        "Stugeron 25mg",
+        "Cinaron 25mg",
+        "Vertigon 25mg"
+      ],
+      "note": "For vertigo and motion sickness. Causes drowsiness."
+    },
+    "betahistine": {
+      "brands": [
+        "Vertin 16mg",
+        "Betaserc 16mg",
+        "Betavert 16mg"
+      ],
+      "note": "For Meniere's disease and chronic vertigo."
+    },
+    "oral rehydration salts": {
+      "brands": [
+        "Electral Sachet",
+        "Enerzal",
+        "Pedialyte",
+        "WHO-ORS"
+      ],
+      "note": "Dissolve 1 sachet in 1 litre water. For dehydration."
+    },
+    "vitamin d3": {
+      "brands": [
+        "Calcirol 60000 IU",
+        "Uprise-D3",
+        "Tayo 60K",
+        "Arachitol Nano"
+      ],
+      "note": "Weekly sachet or daily supplement. Take with fatty meal."
+    },
+    "cetirizine+paracetamol+phenylephrine": {
+      "brands": [
+        "Sinarest",
+        "Cheston Cold",
+        "D-Cold Total",
+        "Coldact"
+      ],
+      "note": "Cold combination tablets. Cause drowsiness."
+    },
+    "aluminium hydroxide+magnesium hydroxide": {
+      "brands": [
+        "Gelusil MPS",
+        "Digene Gel",
+        "Mucaine Gel",
+        "Antacid Plus"
+      ],
+      "note": "Antacids for immediate acidity relief."
+    },
+    "norfloxacin+tinidazole": {
+      "brands": [
+        "Norflox-TZ",
+        "Ciplox-TZ",
+        "Norbid-TZ"
+      ],
+      "note": "Antibiotic for gut infections."
+    },
+    "mefenamic acid": {
+      "brands": [
+        "Meftal 500mg",
+        "Ponstan 500mg",
+        "Niftas 500mg"
+      ],
+      "note": "For menstrual pain and moderate pain relief."
+    },
+    "calcium+vitamin d3": {
+      "brands": [
+        "Shelcal 500",
+        "Calcimax",
+        "Calcium Sandoz",
+        "Cal-C-Vita"
+      ],
+      "note": "Take with meals. Space doses for better absorption."
+    },
+    "probiotics": {
+      "brands": [
+        "Enterogermina",
+        "Vizylac",
+        "Bifilac",
+        "Gutgood"
+      ],
+      "note": "Take 2 hours apart from antibiotics."
+    },
+    "hmbb": {
+      "brands": [
+        "HMBB 10mg (Hyoscine Methobromide + Paracetamol combination)"
+      ],
+      "note": "Antispasmodic used post-surgery or for abdominal cramps. Consult prescribing doctor for alternatives."
+    },
+    "clarithromycin": {
+      "brands": [
+        "Zoclar 500mg",
+        "Claribid 500mg",
+        "Klaricid 500mg",
+        "Clariwin 500mg"
+      ],
+      "note": "Macrolide antibiotic. Complete full course. Take with food."
+    },
+    "isoxsuprine": {
+      "brands": [
+        "Gestakind 10mg",
+        "Duvadilan 10mg",
+        "Vasodilan 10mg"
+      ],
+      "note": "Uterine relaxant / vasodilator. Prescription only."
+    },
+    "doxylamine_pyridoxine": {
+      "brands": [
+        "Vomilast",
+        "Doxinate",
+        "Diclegis",
+        "Bonamine"
+      ],
+      "note": "For nausea in pregnancy. Take at bedtime."
+    }
+  }
+}
